@@ -1,0 +1,10 @@
+{   "n_folds" : "10",
+    "data_src_dir" : "../data/droc/droc-conll", 
+    "data_dir" : "../data/droc/data", 
+    "pretrained_model": "../models/droc-model-electra-pretrained",
+    "finetuned_model" : "../models/droc-model-electra", 
+    "script_file" : "run_ner.py", 
+    "config_file" : "config-electra.json", 
+    "result_file" : "../models/droc-model-electra/test_results.txt", 
+    "all_results_file" : "./results_electra.txt"
+}

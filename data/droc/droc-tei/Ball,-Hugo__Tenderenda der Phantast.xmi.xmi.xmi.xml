@@ -1,0 +1,2124 @@
+<TEI><teiHeader xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:a="http://www.textgrid.info/namespace/digibib/authors">
+      <fileDesc>
+         <titleStmt>
+            <title>Tenderenda der Phantast</title>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="handle">hdl:11858/00-1734-0000-0006-AA5F-1</idno><idno type="TextGridUri">textgrid:1266q.0</idno><availability>
+               
+               <p> Der annotierte Datenbestand der Digitalen Bibliothek inklusive Metadaten sowie
+                                   davon einzeln zugängliche Teile sind eine Abwandlung des Datenbestandes von
+                                   www.editura.de durch TextGrid und werden unter der Lizenz Creative Commons
+                                   Namensnennung 3.0 Deutschland Lizenz (by-Nennung TextGrid) veröffentlicht. Die
+                                   Lizenz bezieht sich nicht auf die der Annotation zu Grunde liegenden
+                                   allgemeinfreien Texte (Siehe auch Punkt 2 der Lizenzbestimmungen). </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode">Lizenzvertrag</ref>
+               </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/"> Eine vereinfachte
+                                   Zusammenfassung des rechtsverbindlichen Lizenzvertrages in
+                                   allgemeinverständlicher Sprache </ref>
+               </p>
+               <p>
+                  <ref target="http://www.textgrid.de/Digitale-Bibliothek">Hinweise zur Lizenz und zur Digitalen Bibliothek</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note>
+                              Entstanden zwischen 1914 und 1920. Erstdruck: Zürich (Die Arche) 1967.
+                           </note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Hugo Ball: Der Künstler und die Zeitkrankheit. Ausgewählte Schriften, Frankfurt a.M.: Suhrkamp, 1984.</title>
+                  <author key="pnd:118506234">Ball, Hugo</author>
+               </titleStmt>
+               <extent>379-</extent>
+               <publicationStmt>
+                  <date when="1984"/>
+                  <pubPlace>Frankfurt a.M.</pubPlace>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date notBefore="1914" notAfter="1920"/>
+         </creation>
+         <textClass>
+            <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+               <term>prose</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader><text>
+<body>
+<p>
+<w xml:id="w1">Laurentius</w>
+<w xml:id="w2">Tenderenda</w>
+<w xml:id="w3">Unverblümter</w>
+<w xml:id="w4">Ausbruch</w>
+<w xml:id="w5">oder</w>
+<w xml:id="w6">Expektoration</w>
+<w xml:id="w7">des</w>
+<persName type="AppTdfW" xml:id="cr1" ><w xml:id="w8">Titelhelden</w>
+</persName>
+<w xml:id="w9">.</w>
+<w xml:id="w10">Der</w>
+<persName type="AppTdfW" xml:id="cr2" ><w xml:id="w11">Autor</w>
+</persName>
+<w xml:id="w12">nennt</w>
+<persName type="pron" xml:id="cr3" prev="#cr1"><w xml:id="w13">ihn</w>
+</persName>
+<w xml:id="w14">einen</w>
+<persName type="AppTdfW" xml:id="cr4" prev="#cr1"><w xml:id="w15">Phantasten</w>
+</persName>
+<w xml:id="w16">,</w>
+<persName type="pron" xml:id="cr5" prev="#cr1"><w xml:id="w17">er</w>
+</persName>
+<w xml:id="w18">selbst</w>
+<w xml:id="w19">nennt</w>
+<persName type="pron" xml:id="cr6" prev="#cr1"><w xml:id="w20">sich</w>
+</persName>
+<w xml:id="w21">in</w>
+<persName type="pron" xml:id="cr7" prev="#cr1"><w xml:id="w22">seiner</w>
+</persName>
+<w xml:id="w23">verstiegenen</w>
+<w xml:id="w24">Weise</w>
+<quote type="name"><w xml:id="w25">›</w>
+<persName type="AppTdfW" xml:id="cr8" prev="#cr1"><w xml:id="w26">Kirchenpoet</w>
+</persName>
+<w xml:id="w27">‹</w>
+</quote>
+<w xml:id="w28">.</w>
+<w xml:id="w29">Auch</w>
+<w xml:id="w30">als</w>
+<quote type="name"><w xml:id="w31">›</w>
+<persName type="AppTdfW" xml:id="cr9" prev="#cr1"><w xml:id="w32">Ritter</w>
+</persName>
+<w xml:id="w33">aus</w>
+<w xml:id="w34">Glanzpapier</w>
+<w xml:id="w35">‹</w>
+</quote>
+<w xml:id="w36">bezeichnet</w>
+<persName type="pron" xml:id="cr10" prev="#cr1"><w xml:id="w37">er</w>
+</persName>
+<persName type="pron" xml:id="cr11" prev="#cr1"><w xml:id="w38">sich</w>
+</persName>
+<w xml:id="w39">,</w>
+<w xml:id="w40">was</w>
+<w xml:id="w41">auf</w>
+<w xml:id="w42">den</w>
+<w xml:id="w43">donquichotischen</w>
+<w xml:id="w44">Aufzug</w>
+<w xml:id="w45">hinweist</w>
+<w xml:id="w46">,</w>
+<w xml:id="w47">in</w>
+<w xml:id="w48">dem</w>
+<persName type="Core" xml:id="cr12" prev="#cr1"><w xml:id="w49">Tenderenda</w>
+</persName>
+<w xml:id="w50">bei</w>
+<w xml:id="w51">Lebzeiten</w>
+<persName type="pron" xml:id="cr13" prev="#cr1"><w xml:id="w52">sich</w>
+</persName>
+<w xml:id="w53">zu</w>
+<w xml:id="w54">bewegen</w>
+<w xml:id="w55">liebte</w>
+<w xml:id="w56">.</w>
+<persName type="pron" xml:id="cr14" prev="#cr1"><w xml:id="w57">Er</w>
+</persName>
+<w xml:id="w58">gesteht</w>
+<w xml:id="w59">,</w>
+<persName type="pron" xml:id="cr15" prev="#cr1"><w xml:id="w60">seiner</w>
+</persName>
+<w xml:id="w61">Fröhlichkeit</w>
+<w xml:id="w62">müde</w>
+<w xml:id="w63">zu</w>
+<w xml:id="w64">sein</w>
+<w xml:id="w65">und</w>
+<w xml:id="w66">erfleht</w>
+<persName type="pron" xml:id="cr16" prev="#cr1"><w xml:id="w67">sich</w>
+</persName>
+<w xml:id="w68">den</w>
+<w xml:id="w69">Segen</w>
+<w xml:id="w70">des</w>
+<w xml:id="w71">Himmels</w>
+<w xml:id="w72">.</w>
+<w xml:id="w73">Besonderes</w>
+<w xml:id="w74">Lob</w>
+<w xml:id="w75">verdient</w>
+<w xml:id="w76">die</w>
+<w xml:id="w77">Benediktionsformel</w>
+<w xml:id="w78">,</w>
+<w xml:id="w79">deren</w>
+<w xml:id="w80">heiteres</w>
+<w xml:id="w81">Tongefälle</w>
+<w xml:id="w82">dem</w>
+<w xml:id="w83">himmeltänzlerischen</w>
+<w xml:id="w84">Wesen</w>
+<persName type="Core" xml:id="cr17" prev="#cr1"><w xml:id="w85">Tenderendas</w>
+</persName>
+<w xml:id="w86">gerecht</w>
+<w xml:id="w87">wird</w>
+<w xml:id="w88">.</w>
+<w xml:id="w89">Da</w>
+<persName type="pron" xml:id="cr18" prev="#cr1"><w xml:id="w90">er</w>
+</persName>
+<w xml:id="w91">Chimären</w>
+<w xml:id="w92">in</w>
+<w xml:id="w93">den</w>
+<w xml:id="w94">Stall</w>
+<w xml:id="w95">bringt</w>
+<w xml:id="w96">,</w>
+<w xml:id="w97">könnte</w>
+<w xml:id="w98">man</w>
+<persName type="pron" xml:id="cr19" prev="#cr1"><w xml:id="w99">ihn</w>
+</persName>
+<w xml:id="w100">für</w>
+<w xml:id="w101">einen</w>
+<persName type="AppTdfW" xml:id="cr20" prev="#cr1"><w xml:id="w102">Exorzisten</w>
+</persName>
+<w xml:id="w103">halten</w>
+<w xml:id="w104">.</w>
+<w xml:id="w105">Die</w>
+<w xml:id="w106">Nachstellungen</w>
+<w xml:id="w107">des</w>
+<persName type="AppTdfW" xml:id="cr21" ><w xml:id="w108">Teufels</w>
+</persName>
+<w xml:id="w109">,</w>
+<w xml:id="w110">auf</w>
+<w xml:id="w111">die</w>
+<w xml:id="w112">der</w>
+<w xml:id="w113">Segensspruch</w>
+<w xml:id="w114">hinweist</w>
+<w xml:id="w115">,</w>
+<w xml:id="w116">sind</w>
+<w xml:id="w117">jene</w>
+<w xml:id="w118">Phantasmata</w>
+<w xml:id="w119">,</w>
+<w xml:id="w120">über</w>
+<w xml:id="w121">die</w>
+<w xml:id="w122">schon</w>
+<w xml:id="w123">der</w>
+<w xml:id="w124">heilige</w>
+<persName type="Core" xml:id="cr22" ><w xml:id="w125">Ambrosius</w>
+</persName>
+<w xml:id="w126">klagt</w>
+<w xml:id="w127">,</w>
+<w xml:id="w128">und</w>
+<w xml:id="w129">deren</w>
+<w xml:id="w130">Abschwörung</w>
+<w xml:id="w131">ein</w>
+<w xml:id="w132">anderer</w>
+<persName type="AppTdfW" xml:id="cr23" ><w xml:id="w133">Heiliger</w>
+</persName>
+<w xml:id="w134">als</w>
+<w xml:id="w135">Bedingung</w>
+<w xml:id="w136">nennt</w>
+<w xml:id="w137">für</w>
+<w xml:id="w138">den</w>
+<w xml:id="w139">Eintritt</w>
+<w xml:id="w140">in</w>
+<w xml:id="w141">den</w>
+<w xml:id="w142">Mönchsstand</w>
+<w xml:id="w143">.</w>
+<w xml:id="w144">Ansonsten</w>
+<w xml:id="w145">ist</w>
+<persName type="Core" xml:id="cr24" prev="#cr1"><w xml:id="w146">Tenderendas</w>
+</persName>
+<w xml:id="w147">Situation</w>
+<w xml:id="w148">elegisch</w>
+<w xml:id="w149">und</w>
+<w xml:id="w150">massenscheu</w>
+<w xml:id="w151">.</w>
+<w xml:id="w152">Die</w>
+<w xml:id="w153">Wortspiele</w>
+<w xml:id="w154">,</w>
+<w xml:id="w155">Wunder</w>
+<w xml:id="w156">und</w>
+<w xml:id="w157">Abenteuer</w>
+<w xml:id="w158">haben</w>
+<persName type="pron" xml:id="cr25" prev="#cr1"><w xml:id="w159">ihn</w>
+</persName>
+<w xml:id="w160">mürbe</w>
+<w xml:id="w161">gemacht</w>
+<w xml:id="w162">.</w>
+<persName type="pron" xml:id="cr26" prev="#cr1"><w xml:id="w163">Er</w>
+</persName>
+<w xml:id="w164">sehnt</w>
+<persName type="pron" xml:id="cr27" prev="#cr1"><w xml:id="w165">sich</w>
+</persName>
+<w xml:id="w166">nach</w>
+<w xml:id="w167">Frieden</w>
+<w xml:id="w168">,</w>
+<w xml:id="w169">Stille</w>
+<w xml:id="w170">und</w>
+<w xml:id="w171">nach</w>
+<w xml:id="w172">lateinischer</w>
+<w xml:id="w173">Abwesenheit</w>
+<w xml:id="w174">.</w>
+<w xml:id="w175">Mit</w>
+<w xml:id="w176">einem</w>
+<w xml:id="w177">Dröhnen</w>
+<w xml:id="w178">hub</w>
+<w xml:id="w179">es</w>
+<w xml:id="w180">an</w>
+<w xml:id="w181">:</w>
+<persName type="Core" xml:id="cr28" prev="#cr1"><w xml:id="w182">Laurentius</w>
+<w xml:id="w183">Tenderenda</w>
+</persName>
+<w xml:id="w184">,</w>
+<w xml:id="w185">der</w>
+<persName type="AppTdfW" xml:id="cr29" prev="#cr1"><w xml:id="w186">Kirchenpoet</w>
+</persName>
+<w xml:id="w187">,</w>
+<w xml:id="w188">eine</w>
+<w xml:id="w189">Halluzinade</w>
+<w xml:id="w190">in</w>
+<w xml:id="w191">drei</w>
+<w xml:id="w192">Teilen</w>
+<w xml:id="w193">.</w>
+<persName type="Core" xml:id="cr30" prev="#cr1"><w xml:id="w194">Laurentius</w>
+<w xml:id="w195">Tenderenda</w>
+</persName>
+<w xml:id="w196">,</w>
+<w xml:id="w197">oder</w>
+<w xml:id="w198">der</w>
+<persName type="AppTdfW" xml:id="cr31" prev="#cr1"><w xml:id="w199">Tollmätcher</w>
+</persName>
+<w xml:id="w200">der</w>
+<w xml:id="w201">Zwangsläufigkeit</w>
+<w xml:id="w202">.</w>
+<persName type="Core" xml:id="cr32" prev="#cr1"><w xml:id="w203">Laurentius</w>
+<w xml:id="w204">Tenderenda</w>
+</persName>
+<w xml:id="w205">,</w>
+<w xml:id="w206">die</w>
+<w xml:id="w207">Wesensessenz</w>
+<w xml:id="w208">der</w>
+<w xml:id="w209">Astralkanonade</w>
+<w xml:id="w210">.</w>
+<w xml:id="w211">Das</w>
+<w xml:id="w212">sollte</w>
+<w xml:id="w213">ein</w>
+<w xml:id="w214">Schabernack</w>
+<w xml:id="w215">sein</w>
+<w xml:id="w216">für</w>
+<w xml:id="w217">delektierbare</w>
+<w xml:id="w218">Zwerchfelle</w>
+<w xml:id="w219">.</w>
+<w xml:id="w220">Aber</w>
+<w xml:id="w221">es</w>
+<w xml:id="w222">ward</w>
+<w xml:id="w223">ein</w>
+<w xml:id="w224">Trauerspiel</w>
+<w xml:id="w225">des</w>
+<w xml:id="w226">gesunden</w>
+<w xml:id="w227">Menschenverstandes</w>
+<w xml:id="w228">und</w>
+<w xml:id="w229">eine</w>
+<w xml:id="w230">Gimpelei</w>
+<w xml:id="w231">für</w>
+<w xml:id="w232">die</w>
+<w xml:id="w233">Modepinsel</w>
+<w xml:id="w234">und</w>
+<w xml:id="w235">Wortflagellanten</w>
+<w xml:id="w236">.</w>
+<w xml:id="w237">Ein</w>
+<persName type="AppTdfW" xml:id="cr33" ><w xml:id="w238">Gebetbuchfabrikant</w>
+</persName>
+<w xml:id="w239">sprach</w>
+<w xml:id="w240">den</w>
+<w xml:id="w241">Prolog</w>
+<w xml:id="w242">,</w>
+<w xml:id="w243">und</w>
+<w xml:id="w244">das</w>
+<w xml:id="w245">Theater</w>
+<w xml:id="w246">schwankte</w>
+<w xml:id="w247">vom</w>
+<w xml:id="w248">Kreisel</w>
+<w xml:id="w249">der</w>
+<w xml:id="w250">Menschenfülle</w>
+<w xml:id="w251">.</w>
+<w xml:id="w252">Mit</w>
+<w xml:id="w253">Hutnadeln</w>
+<w xml:id="w254">waren</w>
+<w xml:id="w255">die</w>
+<w xml:id="w256">Giebel</w>
+<w xml:id="w257">befestigt</w>
+<w xml:id="w258">,</w>
+<w xml:id="w259">und</w>
+<w xml:id="w260">von</w>
+<w xml:id="w261">den</w>
+<w xml:id="w262">Balkonen</w>
+<w xml:id="w263">hingen</w>
+<w xml:id="w264">die</w>
+<w xml:id="w265">hungrigen</w>
+<w xml:id="w266">Bandwürmer</w>
+<w xml:id="w267">,</w>
+<w xml:id="w268">elomen</w>
+<w xml:id="w269">.</w>
+<w xml:id="w270">Der</w>
+<w xml:id="w271">Dispositionsleib</w>
+<w xml:id="w272">des</w>
+<persName type="Core" xml:id="cr34" ><w xml:id="w273">Goliath</w>
+</persName>
+<w xml:id="w274">wurde</w>
+<w xml:id="w275">geöffnet</w>
+<w xml:id="w276">,</w>
+<w xml:id="w277">zehn</w>
+<w xml:id="w278">Stockwerke</w>
+<w xml:id="w279">fielen</w>
+<w xml:id="w280">heraus</w>
+<w xml:id="w281">.</w>
+<w xml:id="w282">Die</w>
+<w xml:id="w283">Klapperschlangen</w>
+<w xml:id="w284">wurden</w>
+<w xml:id="w285">ins</w>
+<w xml:id="w286">Türmlein</w>
+<w xml:id="w287">gebracht</w>
+<w xml:id="w288">und</w>
+<w xml:id="w289">das</w>
+<w xml:id="w290">Bockshorn</w>
+<w xml:id="w291">blies</w>
+<w xml:id="w292">zum</w>
+<w xml:id="w293">Fünfuhrtee</w>
+<w xml:id="w294">.</w>
+<w xml:id="w295">Oh</w>
+<w xml:id="w296">dieses</w>
+<w xml:id="w297">Jahrhundert</w>
+<w xml:id="w298">aus</w>
+<w xml:id="w299">Glühlicht</w>
+<w xml:id="w300">und</w>
+<w xml:id="w301">Stacheldraht</w>
+<w xml:id="w302">,</w>
+<w xml:id="w303">Urkraft</w>
+<w xml:id="w304">und</w>
+<w xml:id="w305">Abgrund</w>
+<w xml:id="w306">!</w>
+<w xml:id="w307">Was</w>
+<w xml:id="w308">sollten</w>
+<w xml:id="w309">hier</w>
+<w xml:id="w310">Dokumente</w>
+<w xml:id="w311">der</w>
+<w xml:id="w312">Qual</w>
+<w xml:id="w313">?</w>
+<w xml:id="w314">Vor</w>
+<w xml:id="w315">einem</w>
+<persName type="AppA" xml:id="cr35" ><w xml:id="w316">Kriegervolk</w>
+</persName>
+<w xml:id="w317">,</w>
+<w xml:id="w318">vor</w>
+<w xml:id="w319">versammeltem</w>
+<persName type="AppA" xml:id="cr36" ><w xml:id="w320">Chorus</w>
+</persName>
+<w xml:id="w321">der</w>
+<persName type="AppA" xml:id="cr37" prev="#cr36"><w xml:id="w322">Versredakteure</w>
+</persName>
+<w xml:id="w323">?</w>
+<persName type="Core" xml:id="cr38" prev="#cr1"><w xml:id="w324">Laurentius</w>
+<w xml:id="w325">Tenderenda</w>
+</persName>
+<w xml:id="w326">,</w>
+<w xml:id="w327">oder</w>
+<w xml:id="w328">der</w>
+<persName type="AppTdfW" xml:id="cr39" prev="#cr1"><w xml:id="w329">Missionar</w>
+</persName>
+<w xml:id="w330">unter</w>
+<w xml:id="w331">den</w>
+<persName type="AppTdfW" xml:id="cr40" ><w xml:id="w332">Schweißfüßen</w>
+</persName>
+<w xml:id="w333">und</w>
+<persName type="AppTdfW" xml:id="cr41" ><w xml:id="w334">Rothäuten</w>
+</persName>
+<w xml:id="w335">der</w>
+<w xml:id="w336">Akademie</w>
+<w xml:id="w337">für</w>
+<w xml:id="w338">Leibesübungen</w>
+<w xml:id="w339">.</w>
+<w xml:id="w340">Ein</w>
+<w xml:id="w341">Bekenntnisbuch</w>
+<w xml:id="w342">und</w>
+<w xml:id="w343">ein</w>
+<w xml:id="w344">Hustenturm</w>
+<w xml:id="w345">.</w>
+<persName type="pron" xml:id="cr42" prev="#cr1"><w xml:id="w346">Ich</w>
+</persName>
+<w xml:id="w347">will</w>
+<w xml:id="w348">die</w>
+<w xml:id="w349">Materie</w>
+<w xml:id="w350">wohlgefüttert</w>
+<w xml:id="w351">vortragen</w>
+<w xml:id="w352">.</w>
+<w xml:id="w353">Das</w>
+<w xml:id="w354">Stubenfechten</w>
+<w xml:id="w355">liegt</w>
+<persName type="pron" xml:id="cr43" prev="#cr1"><w xml:id="w356">mir</w>
+</persName>
+<w xml:id="w357">nicht</w>
+<w xml:id="w358">.</w>
+<w xml:id="w359">Wäre</w>
+<w xml:id="w360">nur</w>
+<w xml:id="w361">nicht</w>
+<w xml:id="w362">dieses</w>
+<w xml:id="w363">beständige</w>
+<w xml:id="w364">schwefelchlore</w>
+<w xml:id="w365">Todesröcheln</w>
+<w xml:id="w366">.</w>
+<w xml:id="w367">Keinen</w>
+<w xml:id="w368">Schritt</w>
+<w xml:id="w369">mehr</w>
+<w xml:id="w370">,</w>
+<w xml:id="w371">oder</w>
+<persName type="pron" xml:id="cr44" prev="#cr1"><w xml:id="w372">ich</w>
+</persName>
+<w xml:id="w373">röchle</w>
+<w xml:id="w374">.</w>
+<w xml:id="w375">Jetzt</w>
+<w xml:id="w376">sind</w>
+<persName type="pron" xml:id="cr45" ><w xml:id="w377">sie</w>
+</persName>
+<w xml:id="w378">gegangen</w>
+<w xml:id="w379">,</w>
+<persName type="pron" xml:id="cr46" prev="#cr45"><w xml:id="w380">ihr</w>
+</persName>
+<w xml:id="w381">dreisitziges</w>
+<w xml:id="w382">Grautier</w>
+<w xml:id="w383">in</w>
+<w xml:id="w384">Galopp</w>
+<w xml:id="w385">zu</w>
+<w xml:id="w386">versetzen</w>
+<w xml:id="w387">.</w>
+<w xml:id="w388">Granate</w>
+<w xml:id="w389">,</w>
+<w xml:id="w390">Zitron</w>
+<w xml:id="w391">und</w>
+<w xml:id="w392">venedisch</w>
+<w xml:id="w393">Blau</w>
+<w xml:id="w394">Rauch</w>
+<persName type="pron" xml:id="cr47" prev="#cr45"><w xml:id="w395">ihrer</w>
+</persName>
+<w xml:id="w396">Zackenhüte</w>
+<w xml:id="w397">.</w>
+<w xml:id="w398">Jetzt</w>
+<w xml:id="w399">brütet</w>
+<w xml:id="w400">die</w>
+<w xml:id="w401">Henne</w>
+<w xml:id="w402">im</w>
+<w xml:id="w403">Hochamt</w>
+<w xml:id="w404">,</w>
+<w xml:id="w405">und</w>
+<persName type="pron" xml:id="cr48" prev="#cr45"><w xml:id="w406">sie</w>
+</persName>
+<w xml:id="w407">jagen</w>
+<w xml:id="w408">nach</w>
+<w xml:id="w409">ihr</w>
+<w xml:id="w410">mit</w>
+<w xml:id="w411">dem</w>
+<w xml:id="w412">Klingelbeutel</w>
+<w xml:id="w413">.</w>
+<w xml:id="w414">In</w>
+<w xml:id="w415">Zinksalbe</w>
+<w xml:id="w416">kochen</w>
+<persName type="pron" xml:id="cr49" prev="#cr45"><w xml:id="w417">sie</w>
+</persName>
+<persName type="pron" xml:id="cr50" prev="#cr45"><w xml:id="w418">ihre</w>
+</persName>
+<w xml:id="w419">Taschenuhren</w>
+<w xml:id="w420">und</w>
+<w xml:id="w421">den</w>
+<w xml:id="w422">Nostradamus</w>
+<w xml:id="w423">überpinseln</w>
+<persName type="pron" xml:id="cr51" prev="#cr45"><w xml:id="w424">sie</w>
+</persName>
+<w xml:id="w425">mit</w>
+<w xml:id="w426">Heliotrop</w>
+<w xml:id="w427">.</w>
+<w xml:id="w428">Das</w>
+<w xml:id="w429">ist</w>
+<persName type="pron" xml:id="cr52" prev="#cr1"><w xml:id="w430">mir</w>
+</persName>
+<w xml:id="w431">die</w>
+<w xml:id="w432">richtige</w>
+<w xml:id="w433">Satansparfümerie</w>
+<w xml:id="w434">.</w>
+<w xml:id="w435">Ein</w>
+<w xml:id="w436">bißchen</w>
+<w xml:id="w437">riechts</w>
+<w xml:id="w438">auch</w>
+<w xml:id="w439">nach</w>
+<w xml:id="w440">Knüllpfeffer</w>
+<w xml:id="w441">und</w>
+<w xml:id="w442">Zipfeldraht</w>
+<w xml:id="w443">.</w>
+<w xml:id="w444">Im</w>
+<w xml:id="w445">zweiten</w>
+<w xml:id="w446">Teil</w>
+<w xml:id="w447">aber</w>
+<w xml:id="w448">werden</w>
+<w xml:id="w449">die</w>
+<persName type="AppTdfW" xml:id="cr53" ><w xml:id="w450">Leidtragenden</w>
+</persName>
+<persName type="pron" xml:id="cr54" prev="#cr53"><w xml:id="w451">sich</w>
+</persName>
+<w xml:id="w452">Koransprüche</w>
+<w xml:id="w453">als</w>
+<w xml:id="w454">Leibbinden</w>
+<w xml:id="w455">umschnallen</w>
+<w xml:id="w456">.</w>
+<w xml:id="w457">Die</w>
+<w xml:id="w458">Kunst</w>
+<w xml:id="w459">als</w>
+<w xml:id="w460">Schnalle</w>
+<w xml:id="w461">.</w>
+<w xml:id="w462">Kapuzinade</w>
+<w xml:id="w463">in</w>
+<w xml:id="w464">drei</w>
+<w xml:id="w465">Fortsetzungen</w>
+<w xml:id="w466">.</w>
+<w xml:id="w467">Oder</w>
+<w xml:id="w468">der</w>
+<w xml:id="w469">enzyklopädische</w>
+<w xml:id="w470">Gebetszylinder</w>
+<w xml:id="w471">.</w>
+<w xml:id="w472">Oder</w>
+<w xml:id="w473">das</w>
+<w xml:id="w474">abgründig</w>
+<w xml:id="w475">fahndende</w>
+<w xml:id="w476">Schauen</w>
+<w xml:id="w477">in</w>
+<w xml:id="w478">die</w>
+<w xml:id="w479">infernale</w>
+<w xml:id="w480">Welt</w>
+<w xml:id="w481">des</w>
+<w xml:id="w482">Schnauzbartklamauks</w>
+<w xml:id="w483">.</w>
+<persName type="pron" xml:id="cr55" prev="#cr1"><w xml:id="w484">Ich</w>
+</persName>
+<w xml:id="w485">wäre</w>
+<persName type="pron" xml:id="cr56" prev="#cr1"><w xml:id="w486">mir</w>
+</persName>
+<w xml:id="w487">ja</w>
+<w xml:id="w488">ein</w>
+<persName type="AppTdfW" xml:id="cr57" prev="#cr1"><w xml:id="w489">Feiner</w>
+</persName>
+<w xml:id="w490">,</w>
+<w xml:id="w491">wenn</w>
+<persName type="pron" xml:id="cr58" prev="#cr1"><w xml:id="w492">ich</w>
+</persName>
+<w xml:id="w493">das</w>
+<w xml:id="w494">nicht</w>
+<w xml:id="w495">begriffe</w>
+<w xml:id="w496">.</w>
+<w xml:id="w497">Ein</w>
+<persName type="AppTdfW" xml:id="cr59" prev="#cr1"><w xml:id="w498">Feiner</w>
+</persName>
+<w xml:id="w499">wäre</w>
+<persName type="pron" xml:id="cr60" prev="#cr1"><w xml:id="w500">ich</w>
+</persName>
+<persName type="pron" xml:id="cr61" prev="#cr1"><w xml:id="w501">mir</w>
+</persName>
+<w xml:id="w502">,</w>
+<w xml:id="w503">wenn</w>
+<persName type="pron" xml:id="cr62" prev="#cr1"><w xml:id="w504">ich</w>
+</persName>
+<w xml:id="w505">dem</w>
+<w xml:id="w506">Biest</w>
+<w xml:id="w507">nicht</w>
+<w xml:id="w508">wollte</w>
+<w xml:id="w509">mit</w>
+<persName type="AppTdfW" xml:id="cr63" ><w xml:id="w510">Stiefelknechten</w>
+</persName>
+<w xml:id="w511">zuleibe</w>
+<w xml:id="w512">gehen</w>
+<w xml:id="w513">.</w>
+<w xml:id="w514">Das</w>
+<w xml:id="w515">Frauenideal</w>
+<w xml:id="w516">des</w>
+<w xml:id="w517">deutschen</w>
+<persName type="AppA" xml:id="cr64" ><w xml:id="w518">Volkes</w>
+</persName>
+<w xml:id="w519">wohnt</w>
+<w xml:id="w520">nicht</w>
+<w xml:id="w521">im</w>
+<w xml:id="w522">öffentlichen</w>
+<w xml:id="w523">Hause</w>
+<w xml:id="w524">der</w>
+<w xml:id="w525">Lust</w>
+<w xml:id="w526">.</w>
+<w xml:id="w527">Der</w>
+<w xml:id="w528">Kakadu</w>
+<w xml:id="w529">ist</w>
+<w xml:id="w530">in</w>
+<w xml:id="w531">das</w>
+<w xml:id="w532">Gift</w>
+<w xml:id="w533">gefallen</w>
+<w xml:id="w534">.</w>
+<w xml:id="w535">Der</w>
+<w xml:id="w536">Blaue</w>
+<persName type="AppA" xml:id="cr65" ><w xml:id="w537">Reiter</w>
+</persName>
+<w xml:id="w538">ist</w>
+<w xml:id="w539">nicht</w>
+<w xml:id="w540">der</w>
+<w xml:id="w541">Rote</w>
+<persName type="AppA" xml:id="cr66" ><w xml:id="w542">Radler</w>
+</persName>
+<w xml:id="w543">.</w>
+<w xml:id="w544">Und</w>
+<persName type="pron" xml:id="cr67" prev="#cr1"><w xml:id="w545">ich</w>
+</persName>
+<w xml:id="w546">dachte</w>
+<w xml:id="w547">,</w>
+<persName type="pron" xml:id="cr68" prev="#cr1"><w xml:id="w548">ich</w>
+</persName>
+<w xml:id="w549">hätte</w>
+<w xml:id="w550">die</w>
+<w xml:id="w551">Chose</w>
+<w xml:id="w552">auf</w>
+<w xml:id="w553">Flaschen</w>
+<w xml:id="w554">gezogen</w>
+<w xml:id="w555">.</w>
+<persName type="pron" xml:id="cr69" prev="#cr45"><w xml:id="w556">Sie</w>
+</persName>
+<w xml:id="w557">haben</w>
+<w xml:id="w558">den</w>
+<w xml:id="w559">Tintenfisch</w>
+<persName type="pron" xml:id="cr70" prev="#cr1"><w xml:id="w560">mir</w>
+</persName>
+<w xml:id="w561">auf</w>
+<w xml:id="w562">das</w>
+<w xml:id="w563">Bett</w>
+<w xml:id="w564">gesetzt</w>
+<w xml:id="w565">.</w>
+<w xml:id="w566">Und</w>
+<persName type="pron" xml:id="cr71" prev="#cr45"><w xml:id="w567">ihre</w>
+</persName>
+<w xml:id="w568">Zahnwurzeln</w>
+<w xml:id="w569">reichten</w>
+<persName type="pron" xml:id="cr72" prev="#cr45"><w xml:id="w570">sie</w>
+</persName>
+<persName type="pron" xml:id="cr73" prev="#cr1"><w xml:id="w571">mir</w>
+</persName>
+<w xml:id="w572">zur</w>
+<w xml:id="w573">Speise</w>
+<w xml:id="w574">.</w>
+<w xml:id="w575">Den</w>
+<w xml:id="w576">Baldrian</w>
+<w xml:id="w577">hab</w>
+<persName type="pron" xml:id="cr74" prev="#cr1"><w xml:id="w578">ich</w>
+</persName>
+<w xml:id="w579">gekostet</w>
+<w xml:id="w580">und</w>
+<w xml:id="w581">die</w>
+<w xml:id="w582">Kirchturmspitze</w>
+<w xml:id="w583">mit</w>
+<w xml:id="w584">Glaspapier</w>
+<w xml:id="w585">abgerieben</w>
+<w xml:id="w586">.</w>
+<w xml:id="w587">Und</w>
+<persName type="pron" xml:id="cr75" prev="#cr1"><w xml:id="w588">ich</w>
+</persName>
+<w xml:id="w589">weiß</w>
+<w xml:id="w590">nicht</w>
+<w xml:id="w591">,</w>
+<w xml:id="w592">ob</w>
+<persName type="pron" xml:id="cr76" prev="#cr1"><w xml:id="w593">ich</w>
+</persName>
+<w xml:id="w594">zu</w>
+<persName type="pron" xml:id="cr77" ><w xml:id="w595">denen</w>
+</persName>
+<w xml:id="w596">oben</w>
+<w xml:id="w597">oder</w>
+<w xml:id="w598">zu</w>
+<persName type="pron" xml:id="cr78" ><w xml:id="w599">denen</w>
+</persName>
+<w xml:id="w600">unten</w>
+<w xml:id="w601">gehöre</w>
+<w xml:id="w602">.</w>
+<w xml:id="w603">Denn</w>
+<w xml:id="w604">das</w>
+<w xml:id="w605">Unglaubliche</w>
+<w xml:id="w606">,</w>
+<w xml:id="w607">niemals</w>
+<w xml:id="w608">Erlaubliche</w>
+<w xml:id="w609">wird</w>
+<w xml:id="w610">hier</w>
+<w xml:id="w611">Ereignis</w>
+<w xml:id="w612">.</w>
+<w xml:id="w613">Ohne</w>
+<w xml:id="w614">Präambel</w>
+<w xml:id="w615">:</w>
+<w xml:id="w616">von</w>
+<w xml:id="w617">Haus</w>
+<w xml:id="w618">aus</w>
+<w xml:id="w619">bin</w>
+<persName type="pron" xml:id="cr79" prev="#cr1"><w xml:id="w620">ich</w>
+</persName>
+<w xml:id="w621">ein</w>
+<persName type="AppTdfW" xml:id="cr80" prev="#cr1"><w xml:id="w622">Kind</w>
+</persName>
+<w xml:id="w623">der</w>
+<w xml:id="w624">Leidenschaft</w>
+<w xml:id="w625">.</w>
+<persName type="pron" xml:id="cr81" prev="#cr1"><w xml:id="w626">Mein</w>
+</persName>
+<w xml:id="w627">Mons</w>
+<w xml:id="w628">puberis</w>
+<w xml:id="w629">kann</w>
+<w xml:id="w630">sich</w>
+<w xml:id="w631">sehen</w>
+<w xml:id="w632">lassen</w>
+<w xml:id="w633">.</w>
+<w xml:id="w634">Vierzig</w>
+<w xml:id="w635">Tage</w>
+<w xml:id="w636">habe</w>
+<persName type="pron" xml:id="cr82" prev="#cr1"><w xml:id="w637">ich</w>
+</persName>
+<w xml:id="w638">im</w>
+<w xml:id="w639">Natron</w>
+<w xml:id="w640">gelegen</w>
+<w xml:id="w641">.</w>
+<w xml:id="w642">Den</w>
+<persName type="AppA" xml:id="cr83" ><w xml:id="w643">Gottlosen</w>
+</persName>
+<w xml:id="w644">werden</w>
+<w xml:id="w645">die</w>
+<w xml:id="w646">Zähne</w>
+<w xml:id="w647">lang</w>
+<w xml:id="w648">aus</w>
+<w xml:id="w649">dem</w>
+<w xml:id="w650">Kiefer</w>
+<w xml:id="w651">wachsen</w>
+<w xml:id="w652">.</w>
+<persName type="pron" xml:id="cr84" prev="#cr1"><w xml:id="w653">Ich</w>
+</persName>
+<w xml:id="w654">könnte</w>
+<w xml:id="w655">das</w>
+<w xml:id="w656">Pönital</w>
+<w xml:id="w657">rezitieren</w>
+<w xml:id="w658">und</w>
+<w xml:id="w659">das</w>
+<w xml:id="w660">heilige</w>
+<w xml:id="w661">Kreuzzeichen</w>
+<w xml:id="w662">machen</w>
+<w xml:id="w663">.</w>
+<w xml:id="w664">Wem</w>
+<w xml:id="w665">wäre</w>
+<w xml:id="w666">gedient</w>
+<w xml:id="w667">damit</w>
+<w xml:id="w668">?</w>
+<persName type="pron" xml:id="cr85" prev="#cr1"><w xml:id="w669">Ich</w>
+</persName>
+<w xml:id="w670">könnte</w>
+<persName type="pron" xml:id="cr86" prev="#cr1"><w xml:id="w671">meine</w>
+</persName>
+<w xml:id="w672">Locken</w>
+<w xml:id="w673">mit</w>
+<w xml:id="w674">Öl</w>
+<w xml:id="w675">der</w>
+<w xml:id="w676">Sonnenblume</w>
+<w xml:id="w677">salben</w>
+<w xml:id="w678">und</w>
+<w xml:id="w679">die</w>
+<w xml:id="w680">davidische</w>
+<w xml:id="w681">Harfe</w>
+<w xml:id="w682">ergreifen</w>
+<w xml:id="w683">?</w>
+<w xml:id="w684">Cui</w>
+<w xml:id="w685">bono</w>
+<w xml:id="w686">?</w>
+<w xml:id="w687">Die</w>
+<persName type="AppA" xml:id="cr87" ><w xml:id="w688">Herren</w>
+<w xml:id="w689">Hausseure</w>
+</persName>
+<w xml:id="w690">und</w>
+<persName type="AppA" xml:id="cr88" ><w xml:id="w691">Färbemeister</w>
+</persName>
+<w xml:id="w692">des</w>
+<w xml:id="w693">neuen</w>
+<w xml:id="w694">Jerusalems</w>
+<w xml:id="w695">portätierend</w>
+<w xml:id="w696">–</w>
+<w xml:id="w697">:</w>
+<w xml:id="w698">was</w>
+<w xml:id="w699">nützte</w>
+<w xml:id="w700">es</w>
+<persName type="pron" xml:id="cr89" prev="#cr1"><w xml:id="w701">mir</w>
+</persName>
+<w xml:id="w702">?</w>
+<w xml:id="w703">Dies</w>
+<w xml:id="w704">ist</w>
+<w xml:id="w705">der</w>
+<w xml:id="w706">Parabasen</w>
+<w xml:id="w707">elfte</w>
+<w xml:id="w708">und</w>
+<w xml:id="w709">letzte</w>
+<w xml:id="w710">.</w>
+<w xml:id="w711">Der</w>
+<persName type="AppA" xml:id="cr90" ><w xml:id="w712">Ritter</w>
+</persName>
+<w xml:id="w713">aus</w>
+<w xml:id="w714">Glanzpapier</w>
+<w xml:id="w715">ist</w>
+<persName type="AppA" xml:id="cr91" prev="#cr90"><w xml:id="w716">seiner</w>
+</persName>
+<w xml:id="w717">Fröhlichkeit</w>
+<w xml:id="w718">müde</w>
+<w xml:id="w719">.</w>
+<w xml:id="w720">Die</w>
+<w xml:id="w721">Orgel</w>
+<w xml:id="w722">hat</w>
+<w xml:id="w723">seinen</w>
+<w xml:id="w724">Abgang</w>
+<w xml:id="w725">gelockert</w>
+<w xml:id="w726">.</w>
+<w xml:id="w727">Die</w>
+<w xml:id="w728">Chimären</w>
+<w xml:id="w729">sind</w>
+<w xml:id="w730">in</w>
+<w xml:id="w731">den</w>
+<w xml:id="w732">Stall</w>
+<w xml:id="w733">gebracht</w>
+<w xml:id="w734">,</w>
+<w xml:id="w735">und</w>
+<w xml:id="w736">der</w>
+<persName type="Core" xml:id="cr92" ><w xml:id="w737">Kirchenvater</w>
+<w xml:id="w738">Origines</w>
+</persName>
+<w xml:id="w739">sonnt</w>
+<persName type="pron" xml:id="cr93" prev="#cr92"><w xml:id="w740">seine</w>
+</persName>
+<w xml:id="w741">Glatze</w>
+<w xml:id="w742">im</w>
+<w xml:id="w743">Abendrot</w>
+<w xml:id="w744">.</w>
+<w xml:id="w745">Ewigen</w>
+<w xml:id="w746">Samen</w>
+<w xml:id="w747">verleihe</w>
+<persName type="pron" xml:id="cr94" ><w xml:id="w748">uns</w>
+</persName>
+<w xml:id="w749">,</w>
+<w xml:id="w750">o</w>
+<persName type="AppTdfW" xml:id="cr95" ><w xml:id="w751">Herr</w>
+</persName>
+<w xml:id="w752">,</w>
+<w xml:id="w753">einen</w>
+<w xml:id="w754">guten</w>
+<w xml:id="w755">Cordial</w>
+<w xml:id="w756">Medoc</w>
+<w xml:id="w757">,</w>
+<w xml:id="w758">und</w>
+<w xml:id="w759">das</w>
+<w xml:id="w760">Orchester</w>
+<w xml:id="w761">der</w>
+<w xml:id="w762">dreimal</w>
+<w xml:id="w763">geschnäbelten</w>
+<w xml:id="w764">Wasserpfeifen</w>
+<w xml:id="w765">verstumme</w>
+<w xml:id="w766">einen</w>
+<w xml:id="w767">Augenblick</w>
+<w xml:id="w768">.</w>
+<w xml:id="w769">Benedicat</w>
+<w xml:id="w770">te</w>
+<persName type="Core" xml:id="cr96" prev="#cr1"><w xml:id="w771">Tenderendam</w>
+</persName>
+<w xml:id="w772">,</w>
+<persName type="AppTdfW" xml:id="cr97" prev="#cr95"><w xml:id="w773">dominus</w>
+</persName>
+<w xml:id="w774">,</w>
+<w xml:id="w775">et</w>
+<w xml:id="w776">custodiat</w>
+<w xml:id="w777">te</w>
+<w xml:id="w778">ab</w>
+<w xml:id="w779">omnibus</w>
+<w xml:id="w780">insidiis</w>
+<w xml:id="w781">diaboli</w>
+<w xml:id="w782">.</w>
+<w xml:id="w783">O</w>
+<persName type="Core" xml:id="cr98" ><w xml:id="w784">Huelsenbeck</w>
+</persName>
+<w xml:id="w785">,</w>
+<w xml:id="w786">o</w>
+<persName type="Core" xml:id="cr99" prev="#cr98"><w xml:id="w787">Huelsenbeck</w>
+</persName>
+<w xml:id="w788">,</w>
+<w xml:id="w789">quelle</w>
+<w xml:id="w790">fleur</w>
+<w xml:id="w791">tenez</w>
+<w xml:id="w792">-</w>
+<persName type="pron" xml:id="cr100" prev="#cr98"><w xml:id="w793">vous</w>
+</persName>
+<w xml:id="w794">dans</w>
+<w xml:id="w795">le</w>
+<w xml:id="w796">bec</w>
+<w xml:id="w797">?</w>
+<w xml:id="w798">Die</w>
+<w xml:id="w799">Wurzeln</w>
+<w xml:id="w800">begatten</w>
+<w xml:id="w801">einander</w>
+<w xml:id="w802">in</w>
+<w xml:id="w803">den</w>
+<w xml:id="w804">Heiligtümern</w>
+<w xml:id="w805">.</w>
+<persName type="AppA" xml:id="cr101" ><w xml:id="w806">Detektive</w>
+</persName>
+<w xml:id="w807">sind</w>
+<persName type="pron" xml:id="cr102" prev="#cr94"><w xml:id="w808">unser</w>
+</persName>
+<w xml:id="w809">Hutschmuck</w>
+<w xml:id="w810">,</w>
+<w xml:id="w811">und</w>
+<w xml:id="w812">das</w>
+<quote type="name"><w xml:id="w813">»</w>
+<w xml:id="w814">gadji</w>
+<w xml:id="w815">beri</w>
+<w xml:id="w816">bimba</w>
+<w xml:id="w817">«</w>
+</quote>
+<w xml:id="w818">verrichten</w>
+<persName type="pron" xml:id="cr103" prev="#cr94"><w xml:id="w819">wir</w>
+</persName>
+<w xml:id="w820">als</w>
+<w xml:id="w821">Nachtgebet</w>
+<w xml:id="w822">.</w>
+<persName type="Core" xml:id="cr104" prev="#cr1"><w xml:id="w823">Tenderenda</w>
+</persName>
+<w xml:id="w824">den</w>
+<persName type="AppTdfW" xml:id="cr105" prev="#cr1"><w xml:id="w825">Kreuzschläger</w>
+</persName>
+<w xml:id="w826">werden</w>
+<persName type="pron" xml:id="cr106" prev="#cr45"><w xml:id="w827">sie</w>
+</persName>
+<persName type="pron" xml:id="cr107" prev="#cr1"><w xml:id="w828">mich</w>
+</persName>
+<w xml:id="w829">nennen</w>
+<w xml:id="w830">.</w>
+<w xml:id="w831">Auf</w>
+<w xml:id="w832">der</w>
+<w xml:id="w833">Sedia</w>
+<w xml:id="w834">gestatoria</w>
+<w xml:id="w835">werden</w>
+<persName type="pron" xml:id="cr108" prev="#cr45"><w xml:id="w836">sie</w>
+</persName>
+<persName type="pron" xml:id="cr109" prev="#cr1"><w xml:id="w837">meine</w>
+</persName>
+<w xml:id="w838">Gebeine</w>
+<w xml:id="w839">zeigen</w>
+<w xml:id="w840">.</w>
+<w xml:id="w841">Mit</w>
+<w xml:id="w842">Weihwasser</w>
+<w xml:id="w843">werden</w>
+<persName type="pron" xml:id="cr110" prev="#cr45"><w xml:id="w844">sie</w>
+</persName>
+<w xml:id="w845">nach</w>
+<persName type="pron" xml:id="cr111" prev="#cr1"><w xml:id="w846">mir</w>
+</persName>
+<w xml:id="w847">spritzen</w>
+<w xml:id="w848">.</w>
+<persName type="AppTdfW" xml:id="cr112" prev="#cr1"><w xml:id="w849">Vollmönch</w>
+</persName>
+<w xml:id="w850">der</w>
+<w xml:id="w851">Präservation</w>
+<w xml:id="w852">und</w>
+<persName type="AppTdfW" xml:id="cr113" prev="#cr1"><w xml:id="w853">Filtriertuch</w>
+</persName>
+<w xml:id="w854">der</w>
+<w xml:id="w855">Unsauberkeiten</w>
+<w xml:id="w856">werden</w>
+<persName type="pron" xml:id="cr114" prev="#cr45"><w xml:id="w857">sie</w>
+</persName>
+<persName type="pron" xml:id="cr115" prev="#cr1"><w xml:id="w858">mich</w>
+</persName>
+<w xml:id="w859">nennen</w>
+<w xml:id="w860">.</w>
+<persName type="AppTdfW" xml:id="cr116" prev="#cr1"><w xml:id="w861">Eselskönig</w>
+</persName>
+<w xml:id="w862">und</w>
+<persName type="AppTdfW" xml:id="cr117" prev="#cr1"><w xml:id="w863">Schismatikaster</w>
+</persName>
+<w xml:id="w864">.</w>
+<w xml:id="w865">In</w>
+<w xml:id="w866">nomine</w>
+<persName type="AppTdfW" xml:id="cr118" prev="#cr95"><w xml:id="w867">patris</w>
+</persName>
+<w xml:id="w868">et</w>
+<persName type="AppTdfW" xml:id="cr119" ><w xml:id="w869">filii</w>
+</persName>
+<w xml:id="w870">et</w>
+<persName type="AppTdfW" xml:id="cr120" ><w xml:id="w871">spiritus</w>
+<w xml:id="w872">sancti</w>
+</persName>
+<w xml:id="w873">.</w>
+<w xml:id="w874">Ein</w>
+<w xml:id="w875">Glück</w>
+<w xml:id="w876">nur</w>
+<w xml:id="w877">,</w>
+<w xml:id="w878">daß</w>
+<persName type="pron" xml:id="cr121" prev="#cr1"><w xml:id="w879">mir</w>
+</persName>
+<w xml:id="w880">die</w>
+<w xml:id="w881">Pfingstlaune</w>
+<w xml:id="w882">durch</w>
+<w xml:id="w883">gar</w>
+<w xml:id="w884">zu</w>
+<w xml:id="w885">krasse</w>
+<persName type="AppA" xml:id="cr122" ><w xml:id="w886">Außenseiter</w>
+</persName>
+<w xml:id="w887">nicht</w>
+<w xml:id="w888">gestört</w>
+<w xml:id="w889">wird</w>
+<w xml:id="w890">.</w>
+<w xml:id="w891">Ein</w>
+<w xml:id="w892">Glück</w>
+<w xml:id="w893">,</w>
+<w xml:id="w894">daß</w>
+<persName type="pron" xml:id="cr123" prev="#cr1"><w xml:id="w895">ich</w>
+</persName>
+<w xml:id="w896">gut</w>
+<w xml:id="w897">in</w>
+<w xml:id="w898">Form</w>
+<w xml:id="w899">bleiben</w>
+<w xml:id="w900">kann</w>
+<w xml:id="w901">.</w>
+<w xml:id="w902">Hätte</w>
+<persName type="pron" xml:id="cr124" prev="#cr1"><w xml:id="w903">ich</w>
+</persName>
+<w xml:id="w904">ein</w>
+<w xml:id="w905">Notizbuch</w>
+<w xml:id="w906">zur</w>
+<w xml:id="w907">Hand</w>
+<w xml:id="w908">,</w>
+<w xml:id="w909">oder</w>
+<w xml:id="w910">böte</w>
+<w xml:id="w911">sich</w>
+<w xml:id="w912">sonst</w>
+<w xml:id="w913">eine</w>
+<w xml:id="w914">Occasion</w>
+<w xml:id="w915">,</w>
+<w xml:id="w916">so</w>
+<w xml:id="w917">würde</w>
+<persName type="pron" xml:id="cr125" prev="#cr1"><w xml:id="w918">ich</w>
+</persName>
+<w xml:id="w919">aufschreiben</w>
+<w xml:id="w920">,</w>
+<w xml:id="w921">was</w>
+<persName type="pron" xml:id="cr126" prev="#cr1"><w xml:id="w922">mir</w>
+</persName>
+<w xml:id="w923">mehr</w>
+<w xml:id="w924">einfällt</w>
+<w xml:id="w925">.</w>
+<w xml:id="w926">Die</w>
+<w xml:id="w927">ganze</w>
+<w xml:id="w928">Zeit</w>
+<w xml:id="w929">fällt</w>
+<w xml:id="w930">ja</w>
+<persName type="pron" xml:id="cr127" prev="#cr1"><w xml:id="w931">mir</w>
+</persName>
+<w xml:id="w932">ein</w>
+<w xml:id="w933">.</w>
+<w xml:id="w934">Es</w>
+<w xml:id="w935">ist</w>
+<w xml:id="w936">ein</w>
+<w xml:id="w937">großer</w>
+<w xml:id="w938">Einfall</w>
+<w xml:id="w939">und</w>
+<w xml:id="w940">Hinfall</w>
+<w xml:id="w941">,</w>
+<w xml:id="w942">den</w>
+<persName type="pron" xml:id="cr128" prev="#cr1"><w xml:id="w943">ich</w>
+</persName>
+<w xml:id="w944">mit</w>
+<w xml:id="w945">hinfälliger</w>
+<w xml:id="w946">Einfalt</w>
+<w xml:id="w947">festhalten</w>
+<w xml:id="w948">möchte</w>
+<w xml:id="w949">.</w>
+<w xml:id="w950">Baubo</w>
+<w xml:id="w951">Sbugi</w>
+<w xml:id="w952">Ninga</w>
+<w xml:id="w953">Gloffa</w>
+<w xml:id="w954">Baubo</w>
+<w xml:id="w955">Sbugi</w>
+<w xml:id="w956">Ninga</w>
+<w xml:id="w957">Gloffa</w>
+<w xml:id="w958">Eine</w>
+<w xml:id="w959">Zauberformel</w>
+<w xml:id="w960">aus</w>
+<w xml:id="w961">dem</w>
+<w xml:id="w962">erwähnten</w>
+<w xml:id="w963">Zyklus</w>
+<quote type="name"><w xml:id="w964">»</w>
+<w xml:id="w965">gadij</w>
+<w xml:id="w966">beri</w>
+<w xml:id="w967">bimba</w>
+<w xml:id="w968">«</w>
+</quote>
+<w xml:id="w969">.</w>
+<w xml:id="w970">Sie</w>
+<w xml:id="w971">gilt</w>
+<w xml:id="w972">den</w>
+<w xml:id="w973">zwei</w>
+<w xml:id="w974">mystischen</w>
+<w xml:id="w975">Tieren</w>
+<persName type="Core" xml:id="cr129" prev="#cr1"><w xml:id="w976">Tenderendas</w>
+</persName>
+<w xml:id="w977">,</w>
+<w xml:id="w978">dem</w>
+<w xml:id="w979">Pfau</w>
+<w xml:id="w980">und</w>
+<w xml:id="w981">der</w>
+<w xml:id="w982">Katze</w>
+<w xml:id="w983">.</w>
+<w xml:id="w984">Zwei</w>
+<w xml:id="w985">hochmütigen</w>
+<w xml:id="w986">und</w>
+<w xml:id="w987">verschwiegenen</w>
+<w xml:id="w988">Tieren</w>
+<w xml:id="w989">,</w>
+<w xml:id="w990">dem</w>
+<w xml:id="w991">Jeremias</w>
+<w xml:id="w992">und</w>
+<w xml:id="w993">der</w>
+<w xml:id="w994">Klagefrau</w>
+<w xml:id="w995">unter</w>
+<w xml:id="w996">den</w>
+<w xml:id="w997">Tieren</w>
+<w xml:id="w998">.</w>
+<w xml:id="w999">Es</w>
+<w xml:id="w1000">empfiehlt</w>
+<w xml:id="w1001">sich</w>
+<w xml:id="w1002">,</w>
+<w xml:id="w1003">den</w>
+<w xml:id="w1004">Spruch</w>
+<w xml:id="w1005">nur</w>
+<w xml:id="w1006">leichthin</w>
+<w xml:id="w1007">zu</w>
+<w xml:id="w1008">sagen</w>
+<w xml:id="w1009">und</w>
+<w xml:id="w1010">nicht</w>
+<w xml:id="w1011">allzulange</w>
+<w xml:id="w1012">dabei</w>
+<w xml:id="w1013">zu</w>
+<w xml:id="w1014">verweilen</w>
+<w xml:id="w1015">.</w>
+<w xml:id="w1016">Er</w>
+<w xml:id="w1017">ist</w>
+<w xml:id="w1018">auch</w>
+<w xml:id="w1019">nur</w>
+<w xml:id="w1020">als</w>
+<w xml:id="w1021">eine</w>
+<w xml:id="w1022">Art</w>
+<w xml:id="w1023">Agraffe</w>
+<w xml:id="w1024">gedacht</w>
+<w xml:id="w1025">,</w>
+<w xml:id="w1026">die</w>
+<w xml:id="w1027">die</w>
+<w xml:id="w1028">zwei</w>
+<w xml:id="w1029">letzten</w>
+<w xml:id="w1030">Prosatexte</w>
+<w xml:id="w1031">verbindet</w>
+<w xml:id="w1032">.</w>
+<w xml:id="w1033">baubo</w>
+<w xml:id="w1034">sbugi</w>
+<w xml:id="w1035">ninga</w>
+<w xml:id="w1036">gloffa</w>
+<w xml:id="w1037">siwi</w>
+<w xml:id="w1038">faffa</w>
+<w xml:id="w1039">sbugi</w>
+<w xml:id="w1040">faffa</w>
+<w xml:id="w1041">ôkofa</w>
+<w xml:id="w1042">fafâmo</w>
+<w xml:id="w1043">faufo</w>
+<w xml:id="w1044">halja</w>
+<w xml:id="w1045">finj</w>
+<w xml:id="w1046">sirgi</w>
+<w xml:id="w1047">ninga</w>
+<w xml:id="w1048">banja</w>
+<w xml:id="w1049">sbugi</w>
+<w xml:id="w1050">halja</w>
+<w xml:id="w1051">hanja</w>
+<w xml:id="w1052">golja</w>
+<w xml:id="w1053">biddin</w>
+<w xml:id="w1054">mâ</w>
+<w xml:id="w1055">mâ</w>
+<w xml:id="w1056">piaûpa</w>
+<w xml:id="w1057">mjâma</w>
+<w xml:id="w1058">pâwapa</w>
+<w xml:id="w1059">baungo</w>
+<w xml:id="w1060">sbugi</w>
+<w xml:id="w1061">ninga</w>
+<w xml:id="w1062">gloffâlor</w>
+<w xml:id="w1063">Herr</w>
+<w xml:id="w1064">und</w>
+<w xml:id="w1065">Frau</w>
+<w xml:id="w1066">Goldkopf</w>
+<persName type="AppTdfW" xml:id="cr130" ><w xml:id="w1067">Herr</w>
+</persName>
+<w xml:id="w1068">und</w>
+<persName type="Core" xml:id="cr131" ><w xml:id="w1069">Frau</w>
+<w xml:id="w1070">Goldkopf</w>
+</persName>
+<w xml:id="w1071">Ein</w>
+<w xml:id="w1072">astrales</w>
+<w xml:id="w1073">Märchen</w>
+<w xml:id="w1074">.</w>
+<w xml:id="w1075">Eine</w>
+<w xml:id="w1076">Art</w>
+<w xml:id="w1077">himmlischen</w>
+<w xml:id="w1078">Puppenspiels</w>
+<w xml:id="w1079">.</w>
+<w xml:id="w1080">Drei</w>
+<w xml:id="w1081">Teile</w>
+<w xml:id="w1082">lassen</w>
+<w xml:id="w1083">sich</w>
+<w xml:id="w1084">deutlich</w>
+<w xml:id="w1085">unterscheiden</w>
+<w xml:id="w1086">.</w>
+<w xml:id="w1087">Der</w>
+<w xml:id="w1088">erste</w>
+<w xml:id="w1089">:</w>
+<w xml:id="w1090">ein</w>
+<w xml:id="w1091">mystisches</w>
+<w xml:id="w1092">Erlebnis</w>
+<w xml:id="w1093">der</w>
+<persName type="Core" xml:id="cr132" ><w xml:id="w1094">Eheleute</w>
+<w xml:id="w1095">Goldkopf</w>
+</persName>
+<w xml:id="w1096">.</w>
+<w xml:id="w1097">Eine</w>
+<w xml:id="w1098">weiße</w>
+<w xml:id="w1099">Lawine</w>
+<w xml:id="w1100">kommt</w>
+<w xml:id="w1101">bei</w>
+<persName type="pron" xml:id="cr133" prev="#cr132"><w xml:id="w1102">ihnen</w>
+</persName>
+<w xml:id="w1103">zu</w>
+<w xml:id="w1104">Besuch</w>
+<w xml:id="w1105">,</w>
+<w xml:id="w1106">eine</w>
+<w xml:id="w1107">sich</w>
+<w xml:id="w1108">steigernde</w>
+<w xml:id="w1109">Reinheit</w>
+<w xml:id="w1110">und</w>
+<w xml:id="w1111">Helle</w>
+<w xml:id="w1112">wächst</w>
+<persName type="pron" xml:id="cr134" prev="#cr132"><w xml:id="w1113">ihnen</w>
+</persName>
+<w xml:id="w1114">zu</w>
+<w xml:id="w1115">.</w>
+<persName type="pron" xml:id="cr135" prev="#cr132"><w xml:id="w1116">Ihr</w>
+</persName>
+<w xml:id="w1117">Haus</w>
+<w xml:id="w1118">liegt</w>
+<w xml:id="w1119">über</w>
+<w xml:id="w1120">dem</w>
+<w xml:id="w1121">Abgrund</w>
+<w xml:id="w1122">und</w>
+<w xml:id="w1123">an</w>
+<w xml:id="w1124">der</w>
+<w xml:id="w1125">Fabelwiese</w>
+<w xml:id="w1126">,</w>
+<w xml:id="w1127">auf</w>
+<w xml:id="w1128">der</w>
+<w xml:id="w1129">der</w>
+<w xml:id="w1130">Buchstabenbaum</w>
+<w xml:id="w1131">einhergeht</w>
+<w xml:id="w1132">.</w>
+<w xml:id="w1133">Das</w>
+<w xml:id="w1134">ist</w>
+<w xml:id="w1135">jener</w>
+<w xml:id="w1136">Baum</w>
+<w xml:id="w1137">,</w>
+<w xml:id="w1138">von</w>
+<w xml:id="w1139">dem</w>
+<w xml:id="w1140">die</w>
+<w xml:id="w1141">poetischen</w>
+<persName type="AppA" xml:id="cr136" ><w xml:id="w1142">Adams</w>
+</persName>
+<w xml:id="w1143">und</w>
+<persName type="AppA" xml:id="cr137" ><w xml:id="w1144">Evas</w>
+</persName>
+<w xml:id="w1145">essen</w>
+<w xml:id="w1146">.</w>
+<w xml:id="w1147">Zärtliche</w>
+<w xml:id="w1148">Allegorien</w>
+<w xml:id="w1149">in</w>
+<w xml:id="w1150">Tiergestalt</w>
+<w xml:id="w1151">treten</w>
+<w xml:id="w1152">auf</w>
+<w xml:id="w1153">.</w>
+<w xml:id="w1154">Traumhaft</w>
+<w xml:id="w1155">die</w>
+<w xml:id="w1156">Notenständer</w>
+<w xml:id="w1157">des</w>
+<w xml:id="w1158">Lachens</w>
+<w xml:id="w1159">,</w>
+<w xml:id="w1160">die</w>
+<persName type="Core" xml:id="cr138" prev="#cr1"><w xml:id="w1161">Tenderenda</w>
+</persName>
+<w xml:id="w1162">bei</w>
+<w xml:id="w1163">Lebzeiten</w>
+<w xml:id="w1164">verteilte</w>
+<w xml:id="w1165">.</w>
+<w xml:id="w1166">Der</w>
+<w xml:id="w1167">zweite</w>
+<w xml:id="w1168">Teil</w>
+<w xml:id="w1169">ist</w>
+<w xml:id="w1170">die</w>
+<w xml:id="w1171">Ballade</w>
+<w xml:id="w1172">von</w>
+<persName type="Core" xml:id="cr139" ><w xml:id="w1173">Koko</w>
+</persName>
+<w xml:id="w1174">dem</w>
+<w xml:id="w1175">grünen</w>
+<persName type="AppTdfW" xml:id="cr140" prev="#cr139"><w xml:id="w1176">Gott</w>
+</persName>
+<w xml:id="w1177">.</w>
+<w xml:id="w1178">Das</w>
+<w xml:id="w1179">ist</w>
+<w xml:id="w1180">der</w>
+<persName type="AppTdfW" xml:id="cr141" prev="#cr139"><w xml:id="w1181">Phantastengott</w>
+</persName>
+<w xml:id="w1182">.</w>
+<w xml:id="w1183">Von</w>
+<persName type="pron" xml:id="cr142" prev="#cr139"><w xml:id="w1184">ihm</w>
+</persName>
+<w xml:id="w1185">kommt</w>
+<w xml:id="w1186">alle</w>
+<w xml:id="w1187">Glückseligkeit</w>
+<w xml:id="w1188">,</w>
+<w xml:id="w1189">solange</w>
+<persName type="pron" xml:id="cr143" prev="#cr139"><w xml:id="w1190">er</w>
+</persName>
+<w xml:id="w1191">in</w>
+<w xml:id="w1192">Freiheit</w>
+<w xml:id="w1193">die</w>
+<w xml:id="w1194">Flügel</w>
+<w xml:id="w1195">schwingt</w>
+<w xml:id="w1196">.</w>
+<w xml:id="w1197">Setzt</w>
+<w xml:id="w1198">man</w>
+<persName type="pron" xml:id="cr144" prev="#cr139"><w xml:id="w1199">ihn</w>
+</persName>
+<w xml:id="w1200">aber</w>
+<w xml:id="w1201">gefangen</w>
+<w xml:id="w1202">,</w>
+<w xml:id="w1203">so</w>
+<w xml:id="w1204">rächt</w>
+<persName type="pron" xml:id="cr145" prev="#cr139"><w xml:id="w1205">er</w>
+</persName>
+<persName type="pron" xml:id="cr146" prev="#cr139"><w xml:id="w1206">sich</w>
+</persName>
+<w xml:id="w1207">durch</w>
+<w xml:id="w1208">Verzauberung</w>
+<persName type="pron" xml:id="cr147" ><w xml:id="w1209">derer</w>
+</persName>
+<w xml:id="w1210">,</w>
+<persName type="pron" xml:id="cr148" prev="#cr147"><w xml:id="w1211">die</w>
+</persName>
+<persName type="pron" xml:id="cr149" prev="#cr139"><w xml:id="w1212">ihm</w>
+</persName>
+<w xml:id="w1213">am</w>
+<w xml:id="w1214">nächsten</w>
+<w xml:id="w1215">sind</w>
+<w xml:id="w1216">.</w>
+<w xml:id="w1217">Der</w>
+<w xml:id="w1218">dritte</w>
+<w xml:id="w1219">Teil</w>
+<w xml:id="w1220">ist</w>
+<w xml:id="w1221">ein</w>
+<w xml:id="w1222">Epilog</w>
+<w xml:id="w1223">des</w>
+<persName type="Core" xml:id="cr150" prev="#cr132"><w xml:id="w1224">Ehepaares</w>
+<w xml:id="w1225">Goldkopf</w>
+</persName>
+<w xml:id="w1226">.</w>
+<w xml:id="w1227">Es</w>
+<w xml:id="w1228">schüttelt</w>
+<w xml:id="w1229">den</w>
+<w xml:id="w1230">Staub</w>
+<w xml:id="w1231">seiner</w>
+<w xml:id="w1232">Zeit</w>
+<w xml:id="w1233">von</w>
+<w xml:id="w1234">den</w>
+<w xml:id="w1235">Füßen</w>
+<w xml:id="w1236">und</w>
+<w xml:id="w1237">prophezeit</w>
+<w xml:id="w1238">ein</w>
+<w xml:id="w1239">Ende</w>
+<w xml:id="w1240">der</w>
+<persName type="AppA" xml:id="cr151" prev="#cr83"><w xml:id="w1241">Gottlosen</w>
+</persName>
+<w xml:id="w1242">und</w>
+<w xml:id="w1243">der</w>
+<w xml:id="w1244">Verzauberung</w>
+<w xml:id="w1245">.</w>
+<w xml:id="w1246">Den</w>
+<w xml:id="w1247">Kehraus</w>
+<w xml:id="w1248">macht</w>
+<w xml:id="w1249">,</w>
+<w xml:id="w1250">wie</w>
+<w xml:id="w1251">es</w>
+<w xml:id="w1252">recht</w>
+<w xml:id="w1253">und</w>
+<w xml:id="w1254">billig</w>
+<w xml:id="w1255">ist</w>
+<w xml:id="w1256">,</w>
+<w xml:id="w1257">ein</w>
+<w xml:id="w1258">Vers</w>
+<w xml:id="w1259">des</w>
+<persName type="Core" xml:id="cr152" ><w xml:id="w1260">Herrn</w>
+<w xml:id="w1261">Dichterfürsten</w>
+<w xml:id="w1262">Johann</w>
+<w xml:id="w1263">von</w>
+<w xml:id="w1264">Goethe</w>
+</persName>
+<w xml:id="w1265">.</w>
+<persName type="AppTdfW" xml:id="cr153" prev="#cr130"><w xml:id="w1266">Herr</w>
+</persName>
+<w xml:id="w1267">und</w>
+<persName type="Core" xml:id="cr154" prev="#cr131"><w xml:id="w1268">Frau</w>
+<w xml:id="w1269">Goldkopf</w>
+</persName>
+<w xml:id="w1270">begegnen</w>
+<persName type="pron" xml:id="cr155" prev="#cr132"><w xml:id="w1271">sich</w>
+</persName>
+<w xml:id="w1272">auf</w>
+<w xml:id="w1273">der</w>
+<w xml:id="w1274">blauen</w>
+<w xml:id="w1275">Wand</w>
+<w xml:id="w1276">.</w>
+<persName type="Core" xml:id="cr156" prev="#cr130"><w xml:id="w1277">Herrn</w>
+<w xml:id="w1278">Goldkopf</w>
+</persName>
+<w xml:id="w1279">hängt</w>
+<w xml:id="w1280">eine</w>
+<w xml:id="w1281">Sternschnuppe</w>
+<w xml:id="w1282">aus</w>
+<w xml:id="w1283">der</w>
+<w xml:id="w1284">Nase</w>
+<w xml:id="w1285">.</w>
+<persName type="Core" xml:id="cr157" prev="#cr131"><w xml:id="w1286">Frau</w>
+<w xml:id="w1287">Goldkopf</w>
+</persName>
+<w xml:id="w1288">hat</w>
+<w xml:id="w1289">einen</w>
+<w xml:id="w1290">grünen</w>
+<w xml:id="w1291">Federwisch</w>
+<w xml:id="w1292">am</w>
+<w xml:id="w1293">Hut</w>
+<w xml:id="w1294">.</w>
+<persName type="Core" xml:id="cr158" prev="#cr130"><w xml:id="w1295">Herr</w>
+<w xml:id="w1296">Goldkopf</w>
+</persName>
+<w xml:id="w1297">macht</w>
+<w xml:id="w1298">einen</w>
+<w xml:id="w1299">Kratzfuß</w>
+<w xml:id="w1300">.</w>
+<persName type="Core" xml:id="cr159" prev="#cr131"><w xml:id="w1301">Frau</w>
+<w xml:id="w1302">Goldkopf</w>
+</persName>
+<w xml:id="w1303">hat</w>
+<w xml:id="w1304">eine</w>
+<w xml:id="w1305">Hand</w>
+<w xml:id="w1306">wie</w>
+<w xml:id="w1307">eine</w>
+<w xml:id="w1308">fünfzinkige</w>
+<w xml:id="w1309">Gabel</w>
+<w xml:id="w1310">.</w>
+<w xml:id="w1311">Eine</w>
+<w xml:id="w1312">Lawine</w>
+<w xml:id="w1313">kommt</w>
+<w xml:id="w1314">die</w>
+<w xml:id="w1315">Treppe</w>
+<w xml:id="w1316">herauf</w>
+<w xml:id="w1317">.</w>
+<w xml:id="w1318">Hart</w>
+<w xml:id="w1319">hinter</w>
+<w xml:id="w1320">der</w>
+<w xml:id="w1321">Nacht</w>
+<w xml:id="w1322">.</w>
+<w xml:id="w1323">Eine</w>
+<w xml:id="w1324">weiße</w>
+<w xml:id="w1325">Lawine</w>
+<w xml:id="w1326">die</w>
+<w xml:id="w1327">wacklige</w>
+<w xml:id="w1328">Treppe</w>
+<w xml:id="w1329">.</w>
+<persName type="Core" xml:id="cr160" prev="#cr131"><w xml:id="w1330">Frau</w>
+<w xml:id="w1331">Goldkopf</w>
+</persName>
+<w xml:id="w1332">verbeugt</w>
+<persName type="pron" xml:id="cr161" prev="#cr131"><w xml:id="w1333">sich</w>
+</persName>
+<w xml:id="w1334">.</w>
+<persName type="Core" xml:id="cr162" prev="#cr130"><w xml:id="w1335">Herr</w>
+<w xml:id="w1336">Goldkopf</w>
+</persName>
+<w xml:id="w1337">tippt</w>
+<persName type="pron" xml:id="cr163" prev="#cr130"><w xml:id="w1338">sich</w>
+</persName>
+<w xml:id="w1339">an</w>
+<w xml:id="w1340">die</w>
+<w xml:id="w1341">Stirn</w>
+<w xml:id="w1342">.</w>
+<w xml:id="w1343">Eine</w>
+<w xml:id="w1344">weiße</w>
+<w xml:id="w1345">Fontäne</w>
+<w xml:id="w1346">entspringt</w>
+<persName type="pron" xml:id="cr164" prev="#cr130"><w xml:id="w1347">seinem</w>
+</persName>
+<w xml:id="w1348">Kopfe</w>
+<w xml:id="w1349">.</w>
+<w xml:id="w1350">In</w>
+<w xml:id="w1351">keinem</w>
+<w xml:id="w1352">Jahrhundert</w>
+<w xml:id="w1353">ward</w>
+<w xml:id="w1354">solches</w>
+<w xml:id="w1355">gesehen</w>
+<w xml:id="w1356">.</w>
+<w xml:id="w1357">In</w>
+<w xml:id="w1358">keinem</w>
+<w xml:id="w1359">Jahrhundert</w>
+<w xml:id="w1360">.</w>
+<w xml:id="w1361">Die</w>
+<w xml:id="w1362">Feuer-</w>
+<w xml:id="w1363">und</w>
+<w xml:id="w1364">Schneehähne</w>
+<w xml:id="w1365">stieben</w>
+<w xml:id="w1366">entsetzt</w>
+<w xml:id="w1367">aus</w>
+<w xml:id="w1368">der</w>
+<w xml:id="w1369">Tiefe</w>
+<w xml:id="w1370">.</w>
+<w xml:id="w1371">Die</w>
+<w xml:id="w1372">heiseren</w>
+<w xml:id="w1373">Kühe</w>
+<w xml:id="w1374">putzen</w>
+<w xml:id="w1375">einander</w>
+<w xml:id="w1376">die</w>
+<w xml:id="w1377">Nasen</w>
+<w xml:id="w1378">.</w>
+<w xml:id="w1379">Auf</w>
+<w xml:id="w1380">der</w>
+<w xml:id="w1381">Smaragdwiese</w>
+<w xml:id="w1382">wandelt</w>
+<w xml:id="w1383">der</w>
+<w xml:id="w1384">Buchstabenbaum</w>
+<w xml:id="w1385">.</w>
+<w xml:id="w1386">Auf</w>
+<w xml:id="w1387">der</w>
+<w xml:id="w1388">Smaragdwiese</w>
+<w xml:id="w1389">:</w>
+<w xml:id="w1390">sodaseifener</w>
+<w xml:id="w1391">Wurm</w>
+<w xml:id="w1392">gigampfet</w>
+<w xml:id="w1393">aufgezäumt</w>
+<w xml:id="w1394">.</w>
+<w xml:id="w1395">Sein</w>
+<persName type="AppTdfW" xml:id="cr165" ><w xml:id="w1396">Reiter</w>
+</persName>
+<w xml:id="w1397">stürzt</w>
+<w xml:id="w1398">ab</w>
+<w xml:id="w1399">und</w>
+<w xml:id="w1400">verteilet</w>
+<w xml:id="w1401">die</w>
+<w xml:id="w1402">Notenständer</w>
+<w xml:id="w1403">des</w>
+<w xml:id="w1404">Lachens</w>
+<w xml:id="w1405">.</w>
+<persName type="pron" xml:id="cr166" prev="#cr165"><w xml:id="w1406">Er</w>
+</persName>
+<w xml:id="w1407">steigt</w>
+<w xml:id="w1408">in</w>
+<w xml:id="w1409">die</w>
+<w xml:id="w1410">Morgen-</w>
+<w xml:id="w1411">und</w>
+<w xml:id="w1412">Abendschaukel</w>
+<w xml:id="w1413">,</w>
+<w xml:id="w1414">wiegt</w>
+<persName type="pron" xml:id="cr167" prev="#cr165"><w xml:id="w1415">sich</w>
+</persName>
+<w xml:id="w1416">und</w>
+<w xml:id="w1417">schwingt</w>
+<persName type="pron" xml:id="cr168" prev="#cr165"><w xml:id="w1418">sich</w>
+</persName>
+<w xml:id="w1419">und</w>
+<w xml:id="w1420">hüpfet</w>
+<w xml:id="w1421">ins</w>
+<w xml:id="w1422">Jenseits</w>
+<w xml:id="w1423">.</w>
+<w xml:id="w1424">Da</w>
+<w xml:id="w1425">kommen</w>
+<w xml:id="w1426">der</w>
+<w xml:id="w1427">Flötenbock</w>
+<w xml:id="w1428">,</w>
+<w xml:id="w1429">Puderbock</w>
+<w xml:id="w1430">,</w>
+<w xml:id="w1431">Tulpenbock</w>
+<w xml:id="w1432">,</w>
+<w xml:id="w1433">recken</w>
+<w xml:id="w1434">die</w>
+<w xml:id="w1435">Hälse</w>
+<w xml:id="w1436">.</w>
+<w xml:id="w1437">Da</w>
+<w xml:id="w1438">stehet</w>
+<w xml:id="w1439">im</w>
+<w xml:id="w1440">Hintergrund</w>
+<w xml:id="w1441">ein</w>
+<w xml:id="w1442">Vogelhaus</w>
+<w xml:id="w1443">.</w>
+<w xml:id="w1444">Drin</w>
+<w xml:id="w1445">sitzt</w>
+<w xml:id="w1446">der</w>
+<w xml:id="w1447">Kaduderhahn</w>
+<w xml:id="w1448">und</w>
+<w xml:id="w1449">schäumt</w>
+<w xml:id="w1450">Sterne</w>
+<w xml:id="w1451">.</w>
+<w xml:id="w1452">Spricht</w>
+<persName type="Core" xml:id="cr169" prev="#cr130"><w xml:id="w1453">Herr</w>
+<w xml:id="w1454">Goldkopf</w>
+</persName>
+<w xml:id="w1455">verwundert</w>
+<w xml:id="w1456">:</w>
+<quote type="directspeech"><sp who="#cr169"/><w xml:id="w1457">»</w>
+<w xml:id="w1458">Die</w>
+<w xml:id="w1459">Tulpe</w>
+<w xml:id="w1460">ist</w>
+<w xml:id="w1461">eine</w>
+<w xml:id="w1462">Gartenblume</w>
+<w xml:id="w1463">,</w>
+<w xml:id="w1464">schön</w>
+<w xml:id="w1465">,</w>
+<w xml:id="w1466">aber</w>
+<w xml:id="w1467">geruchlos</w>
+<w xml:id="w1468">.</w>
+<w xml:id="w1469">Auf</w>
+<w xml:id="w1470">einer</w>
+<w xml:id="w1471">Höllenmaschine</w>
+<w xml:id="w1472">kann</w>
+<w xml:id="w1473">man</w>
+<w xml:id="w1474">nicht</w>
+<w xml:id="w1475">Kaffee</w>
+<w xml:id="w1476">kochen</w>
+<w xml:id="w1477">.</w>
+<w xml:id="w1478">«</w>
+</quote>
+<w xml:id="w1479">Spricht</w>
+<persName type="Core" xml:id="cr170" prev="#cr131"><w xml:id="w1480">Frau</w>
+<w xml:id="w1481">Goldkopf</w>
+</persName>
+<w xml:id="w1482">:</w>
+<quote type="directspeech"><sp who="#cr170"/><w xml:id="w1483">»</w>
+<w xml:id="w1484">In</w>
+<w xml:id="w1485">gremio</w>
+<persName type="pron" xml:id="cr171" ><w xml:id="w1486">matris</w>
+</persName>
+<w xml:id="w1487">sedet</w>
+<w xml:id="w1488">sapientia</w>
+<persName type="AppTdfW" xml:id="cr172" prev="#cr95"><w xml:id="w1489">patris</w>
+</persName>
+<w xml:id="w1490">.</w>
+<w xml:id="w1491">So</w>
+<w xml:id="w1492">ist's</w>
+<w xml:id="w1493">mit</w>
+<w xml:id="w1494">der</w>
+<w xml:id="w1495">Tulpe</w>
+<w xml:id="w1496">.</w>
+<w xml:id="w1497">In</w>
+<w xml:id="w1498">der</w>
+<w xml:id="w1499">Erde</w>
+<w xml:id="w1500">hat</w>
+<w xml:id="w1501">sie</w>
+<w xml:id="w1502">eine</w>
+<w xml:id="w1503">Zwiebel</w>
+<w xml:id="w1504">.</w>
+<w xml:id="w1505">Darum</w>
+<w xml:id="w1506">ist</w>
+<w xml:id="w1507">sie</w>
+<w xml:id="w1508">eine</w>
+<w xml:id="w1509">Zwiebelpflanze</w>
+<w xml:id="w1510">.</w>
+<w xml:id="w1511">«</w>
+</quote>
+<w xml:id="w1512">Spricht</w>
+<persName type="Core" xml:id="cr173" prev="#cr130"><w xml:id="w1513">Herr</w>
+<w xml:id="w1514">Goldkopf</w>
+</persName>
+<w xml:id="w1515">:</w>
+<quote type="directspeech"><sp who="#cr173"/><w xml:id="w1516">»</w>
+<persName type="AppTdfW" xml:id="cr174" ><w xml:id="w1517">Epileptiker</w>
+</persName>
+<w xml:id="w1518">fallen</w>
+<w xml:id="w1519">allhier</w>
+<w xml:id="w1520">von</w>
+<w xml:id="w1521">den</w>
+<w xml:id="w1522">Bäumen</w>
+<w xml:id="w1523">.</w>
+<w xml:id="w1524">Das</w>
+<w xml:id="w1525">blaue</w>
+<w xml:id="w1526">Pfeifen</w>
+<w xml:id="w1527">mächtiger</w>
+<w xml:id="w1528">Syphone</w>
+<w xml:id="w1529">lockt</w>
+<w xml:id="w1530">.</w>
+<w xml:id="w1531">Das</w>
+<w xml:id="w1532">Bild</w>
+<w xml:id="w1533">sakrosankter</w>
+<w xml:id="w1534">Dreieinigkeit</w>
+<w xml:id="w1535">glüht</w>
+<w xml:id="w1536">über</w>
+<w xml:id="w1537">dem</w>
+<w xml:id="w1538">Buchstabenbaum</w>
+<w xml:id="w1539">.</w>
+<w xml:id="w1540">Erstaunet</w>
+<persName type="pron" xml:id="cr175" prev="#cr131"><w xml:id="w1541">Sie</w>
+</persName>
+<w xml:id="w1542">nicht</w>
+<w xml:id="w1543">,</w>
+<persName type="Core" xml:id="cr176" prev="#cr131"><w xml:id="w1544">Frau</w>
+<w xml:id="w1545">Goldkopf</w>
+</persName>
+<w xml:id="w1546">,</w>
+<w xml:id="w1547">die</w>
+<w xml:id="w1548">hohe</w>
+<w xml:id="w1549">Kindlichkeit</w>
+<w xml:id="w1550">aller</w>
+<w xml:id="w1551">Begebenheiten</w>
+<w xml:id="w1552">?</w>
+<w xml:id="w1553">«</w>
+</quote>
+<w xml:id="w1554">Spricht</w>
+<persName type="Core" xml:id="cr177" prev="#cr131"><w xml:id="w1555">Frau</w>
+<w xml:id="w1556">Goldkopf</w>
+</persName>
+<w xml:id="w1557">:</w>
+<quote type="directspeech"><sp who="#cr177"/><w xml:id="w1558">»</w>
+<w xml:id="w1559">Oh</w>
+<persName type="pron" xml:id="cr178" prev="#cr130"><w xml:id="w1560">Sie</w>
+</persName>
+<w xml:id="w1561">mit</w>
+<persName type="pron" xml:id="cr179" prev="#cr130"><w xml:id="w1562">Ihren</w>
+</persName>
+<w xml:id="w1563">fanatischen</w>
+<w xml:id="w1564">weltstürmenden</w>
+<w xml:id="w1565">Gedanken</w>
+<w xml:id="w1566">!</w>
+<w xml:id="w1567">Tanzende</w>
+<w xml:id="w1568">Tiere</w>
+<w xml:id="w1569">sind</w>
+<persName type="pron" xml:id="cr180" prev="#cr132"><w xml:id="w1570">wir</w>
+</persName>
+<w xml:id="w1571">in</w>
+<w xml:id="w1572">ragendem</w>
+<w xml:id="w1573">Kopfputz</w>
+<w xml:id="w1574">.</w>
+<persName type="pron" xml:id="cr181" prev="#cr132"><w xml:id="w1575">Wir</w>
+</persName>
+<w xml:id="w1576">ringen</w>
+<w xml:id="w1577">um</w>
+<w xml:id="w1578">Nüchternheit</w>
+<w xml:id="w1579">.</w>
+<w xml:id="w1580">Wahrlich</w>
+<w xml:id="w1581">vergebens</w>
+<w xml:id="w1582">.</w>
+<w xml:id="w1583">Wer</w>
+<w xml:id="w1584">von</w>
+<w xml:id="w1585">wem</w>
+<w xml:id="w1586">weiß</w>
+<w xml:id="w1587">was</w>
+<w xml:id="w1588">?</w>
+<w xml:id="w1589">«</w>
+</quote>
+<w xml:id="w1590">Und</w>
+<persName type="Core" xml:id="cr182" prev="#cr130"><w xml:id="w1591">Herr</w>
+<w xml:id="w1592">Goldkopf</w>
+</persName>
+<w xml:id="w1593">:</w>
+<quote type="directspeech"><sp who="#cr182"/><w xml:id="w1594">»</w>
+<w xml:id="w1595">Doch</w>
+<w xml:id="w1596">erinnern</w>
+<persName type="pron" xml:id="cr183" prev="#cr131"><w xml:id="w1597">Sie</w>
+</persName>
+<persName type="pron" xml:id="cr184" prev="#cr131"><w xml:id="w1598">sich</w>
+</persName>
+<w xml:id="w1599">:</w>
+<w xml:id="w1600">Sambuco</w>
+<w xml:id="w1601">?</w>
+<w xml:id="w1602">Fünf</w>
+<w xml:id="w1603">Häuser</w>
+<w xml:id="w1604">auf</w>
+<w xml:id="w1605">einer</w>
+<w xml:id="w1606">grünen</w>
+<w xml:id="w1607">Wand</w>
+<w xml:id="w1608">.</w>
+<w xml:id="w1609">Der</w>
+<w xml:id="w1610">Boden</w>
+<w xml:id="w1611">,</w>
+<w xml:id="w1612">auf</w>
+<w xml:id="w1613">dem</w>
+<persName type="pron" xml:id="cr185" prev="#cr131"><w xml:id="w1614">Sie</w>
+</persName>
+<w xml:id="w1615">da</w>
+<w xml:id="w1616">stehen</w>
+<w xml:id="w1617">:</w>
+<w xml:id="w1618">dreieckiger</w>
+<w xml:id="w1619">Glasscherben</w>
+<w xml:id="w1620">im</w>
+<w xml:id="w1621">Weltenraum</w>
+<w xml:id="w1622">.</w>
+<persName type="Core" xml:id="cr186" prev="#cr139"><w xml:id="w1623">Koko</w>
+</persName>
+<w xml:id="w1624">,</w>
+<w xml:id="w1625">der</w>
+<w xml:id="w1626">grüne</w>
+<persName type="AppTdfW" xml:id="cr187" prev="#cr139"><w xml:id="w1627">Gott</w>
+</persName>
+<w xml:id="w1628">,</w>
+<w xml:id="w1629">hat</w>
+<persName type="pron" xml:id="cr188" prev="#cr132"><w xml:id="w1630">uns</w>
+</persName>
+<w xml:id="w1631">verzaubert</w>
+<w xml:id="w1632">.</w>
+<w xml:id="w1633">«</w>
+</quote>
+<w xml:id="w1634">Und</w>
+<persName type="Core" xml:id="cr189" prev="#cr131"><w xml:id="w1635">Frau</w>
+<w xml:id="w1636">Goldkopf</w>
+</persName>
+<w xml:id="w1637">:</w>
+<quote type="directspeech"><sp who="#cr189"/><w xml:id="w1638">»</w>
+<persName type="Core" xml:id="cr190" prev="#cr139"><w xml:id="w1639">Koko</w>
+</persName>
+<w xml:id="w1640">–</w>
+<w xml:id="w1641">das</w>
+<w xml:id="w1642">ist</w>
+<w xml:id="w1643">:</w>
+<persName type="pron" xml:id="cr191" prev="#cr132"><w xml:id="w1644">unser</w>
+</persName>
+<persName type="AppTdfW" xml:id="cr192" prev="#cr139"><w xml:id="w1645">Sohn</w>
+</persName>
+<w xml:id="w1646">?</w>
+<w xml:id="w1647">Warum</w>
+<w xml:id="w1648">wollen</w>
+<persName type="pron" xml:id="cr193" prev="#cr130"><w xml:id="w1649">Sie</w>
+</persName>
+<w xml:id="w1650">Weltschmerz</w>
+<w xml:id="w1651">spielen</w>
+<w xml:id="w1652">?</w>
+<persName type="pron" xml:id="cr194" prev="#cr130"><w xml:id="w1653">Ihre</w>
+</persName>
+<w xml:id="w1654">Distanz</w>
+<w xml:id="w1655">und</w>
+<w xml:id="w1656">Melancholie</w>
+<w xml:id="w1657">,</w>
+<persName type="pron" xml:id="cr195" prev="#cr130"><w xml:id="w1658">ihre</w>
+</persName>
+<w xml:id="w1659">Altklugheit</w>
+<w xml:id="w1660">und</w>
+<w xml:id="w1661">Erfahrung</w>
+<w xml:id="w1662">:</w>
+<w xml:id="w1663">bedenken</w>
+<persName type="pron" xml:id="cr196" prev="#cr130"><w xml:id="w1664">Sie</w>
+</persName>
+<w xml:id="w1665">nur</w>
+<w xml:id="w1666">!</w>
+<w xml:id="w1667">Mund</w>
+<w xml:id="w1668">,</w>
+<w xml:id="w1669">Stirne</w>
+<w xml:id="w1670">und</w>
+<w xml:id="w1671">Augenhöhlen</w>
+<w xml:id="w1672">verschüttet</w>
+<w xml:id="w1673">von</w>
+<w xml:id="w1674">Safran</w>
+<w xml:id="w1675">.</w>
+</quote>
+<p>
+<join results="s" scope ="root" target="#w2 #w3 #w4 #w5 #w6 #w7 #w8 #w9 #w10 "/>
+<join results="s" scope ="root" target="#w11 #w12 #w13 #w14 #w15 #w16 #w17 #w18 #w19 #w20 #w21 #w22 #w23 #w24 #w25 #w26 #w27 #w28 #w29 "/>
+<join results="s" scope ="root" target="#w30 #w31 #w32 #w33 #w34 #w35 #w36 #w37 #w38 #w39 #w40 #w41 #w42 #w43 #w44 #w45 #w46 #w47 #w48 #w49 #w50 #w51 #w52 #w53 #w54 #w55 #w56 #w57 "/>
+<join results="s" scope ="root" target="#w58 #w59 #w60 #w61 #w62 #w63 #w64 #w65 #w66 #w67 #w68 #w69 #w70 #w71 #w72 #w73 "/>
+<join results="s" scope ="root" target="#w74 #w75 #w76 #w77 #w78 #w79 #w80 #w81 #w82 #w83 #w84 #w85 #w86 #w87 #w88 #w89 "/>
+<join results="s" scope ="root" target="#w90 #w91 #w92 #w93 #w94 #w95 #w96 #w97 #w98 #w99 #w100 #w101 #w102 #w103 #w104 #w105 "/>
+<join results="s" scope ="root" target="#w106 #w107 #w108 #w109 #w110 #w111 #w112 #w113 #w114 #w115 #w116 #w117 #w118 #w119 #w120 #w121 #w122 #w123 #w124 #w125 #w126 #w127 #w128 #w129 #w130 #w131 #w132 #w133 #w134 #w135 #w136 #w137 #w138 #w139 #w140 #w141 #w142 #w143 #w144 "/>
+<join results="s" scope ="root" target="#w145 #w146 #w147 #w148 #w149 #w150 #w151 #w152 "/>
+<join results="s" scope ="root" target="#w153 #w154 #w155 #w156 #w157 #w158 #w159 #w160 #w161 #w162 #w163 "/>
+<join results="s" scope ="root" target="#w164 #w165 #w166 #w167 #w168 #w169 #w170 #w171 #w172 #w173 #w174 #w175 "/>
+<join results="s" scope ="root" target="#w176 #w177 #w178 #w179 #w180 #w181 #w182 #w183 #w184 #w185 #w186 #w187 #w188 #w189 #w190 #w191 #w192 #w193 #w194 "/>
+<join results="s" scope ="root" target="#w195 #w196 #w197 #w198 #w199 #w200 #w201 #w202 #w203 "/>
+<join results="s" scope ="root" target="#w204 #w205 #w206 #w207 #w208 #w209 #w210 #w211 "/>
+<join results="s" scope ="root" target="#w212 #w213 #w214 #w215 #w216 #w217 #w218 #w219 #w220 "/>
+<join results="s" scope ="root" target="#w221 #w222 #w223 #w224 #w225 #w226 #w227 #w228 #w229 #w230 #w231 #w232 #w233 #w234 #w235 #w236 #w237 "/>
+<join results="s" scope ="root" target="#w238 #w239 #w240 #w241 #w242 #w243 #w244 #w245 #w246 #w247 #w248 #w249 #w250 #w251 #w252 "/>
+<join results="s" scope ="root" target="#w253 #w254 #w255 #w256 #w257 #w258 #w259 #w260 #w261 #w262 #w263 #w264 #w265 #w266 #w267 #w268 #w269 #w270 "/>
+<join results="s" scope ="root" target="#w271 #w272 #w273 #w274 #w275 #w276 #w277 #w278 #w279 #w280 #w281 #w282 "/>
+<join results="s" scope ="root" target="#w283 #w284 #w285 #w286 #w287 #w288 #w289 #w290 #w291 #w292 #w293 #w294 #w295 "/>
+<join results="s" scope ="root" target="#w296 #w297 #w298 #w299 #w300 #w301 #w302 #w303 #w304 #w305 #w306 #w307 "/>
+<join results="s" scope ="root" target="#w308 #w309 #w310 #w311 #w312 #w313 #w314 "/>
+<join results="s" scope ="root" target="#w315 #w316 #w317 #w318 #w319 #w320 #w321 #w322 #w323 #w324 "/>
+<join results="s" scope ="root" target="#w325 #w326 #w327 #w328 #w329 #w330 #w331 #w332 #w333 #w334 #w335 #w336 #w337 #w338 #w339 #w340 "/>
+<join results="s" scope ="root" target="#w341 #w342 #w343 #w344 #w345 #w346 "/>
+<join results="s" scope ="root" target="#w347 #w348 #w349 #w350 #w351 #w352 #w353 "/>
+<join results="s" scope ="root" target="#w354 #w355 #w356 #w357 #w358 #w359 "/>
+<join results="s" scope ="root" target="#w360 #w361 #w362 #w363 #w364 #w365 #w366 #w367 "/>
+<join results="s" scope ="root" target="#w368 #w369 #w370 #w371 #w372 #w373 #w374 #w375 "/>
+<join results="s" scope ="root" target="#w376 #w377 #w378 #w379 #w380 #w381 #w382 #w383 #w384 #w385 #w386 #w387 #w388 "/>
+<join results="s" scope ="root" target="#w389 #w390 #w391 #w392 #w393 #w394 #w395 #w396 #w397 #w398 "/>
+<join results="s" scope ="root" target="#w399 #w400 #w401 #w402 #w403 #w404 #w405 #w406 #w407 #w408 #w409 #w410 #w411 #w412 #w413 #w414 "/>
+<join results="s" scope ="root" target="#w415 #w416 #w417 #w418 #w419 #w420 #w421 #w422 #w423 #w424 #w425 #w426 #w427 #w428 "/>
+<join results="s" scope ="root" target="#w429 #w430 #w431 #w432 #w433 #w434 #w435 "/>
+<join results="s" scope ="root" target="#w436 #w437 #w438 #w439 #w440 #w441 #w442 #w443 #w444 "/>
+<join results="s" scope ="root" target="#w445 #w446 #w447 #w448 #w449 #w450 #w451 #w452 #w453 #w454 #w455 #w456 #w457 "/>
+<join results="s" scope ="root" target="#w458 #w459 #w460 #w461 #w462 "/>
+<join results="s" scope ="root" target="#w463 #w464 #w465 #w466 #w467 "/>
+<join results="s" scope ="root" target="#w468 #w469 #w470 #w471 #w472 "/>
+<join results="s" scope ="root" target="#w473 #w474 #w475 #w476 #w477 #w478 #w479 #w480 #w481 #w482 #w483 #w484 "/>
+<join results="s" scope ="root" target="#w485 #w486 #w487 #w488 #w489 #w490 #w491 #w492 #w493 #w494 #w495 #w496 #w497 "/>
+<join results="s" scope ="root" target="#w498 #w499 #w500 #w501 #w502 #w503 #w504 #w505 #w506 #w507 #w508 #w509 #w510 #w511 #w512 #w513 #w514 "/>
+<join results="s" scope ="root" target="#w515 #w516 #w517 #w518 #w519 #w520 #w521 #w522 #w523 #w524 #w525 #w526 #w527 "/>
+<join results="s" scope ="root" target="#w528 #w529 #w530 #w531 #w532 #w533 #w534 #w535 "/>
+<join results="s" scope ="root" target="#w536 #w537 #w538 #w539 #w540 #w541 #w542 #w543 #w544 "/>
+<join results="s" scope ="root" target="#w545 #w546 #w547 #w548 #w549 #w550 #w551 #w552 #w553 #w554 #w555 #w556 "/>
+<join results="s" scope ="root" target="#w557 #w558 #w559 #w560 #w561 #w562 #w563 #w564 #w565 #w566 "/>
+<join results="s" scope ="root" target="#w567 #w568 #w569 #w570 #w571 #w572 #w573 #w574 #w575 "/>
+<join results="s" scope ="root" target="#w576 #w577 #w578 #w579 #w580 #w581 #w582 #w583 #w584 #w585 #w586 #w587 "/>
+<join results="s" scope ="root" target="#w588 #w589 #w590 #w591 #w592 #w593 #w594 #w595 #w596 #w597 #w598 #w599 #w600 #w601 #w602 #w603 "/>
+<join results="s" scope ="root" target="#w604 #w605 #w606 #w607 #w608 #w609 #w610 #w611 #w612 #w613 "/>
+<join results="s" scope ="root" target="#w614 #w615 #w616 #w617 #w618 #w619 #w620 #w621 #w622 #w623 #w624 #w625 #w626 "/>
+<join results="s" scope ="root" target="#w627 #w628 #w629 #w630 #w631 #w632 #w633 #w634 "/>
+<join results="s" scope ="root" target="#w635 #w636 #w637 #w638 #w639 #w640 #w641 #w642 "/>
+<join results="s" scope ="root" target="#w643 #w644 #w645 #w646 #w647 #w648 #w649 #w650 #w651 #w652 #w653 "/>
+<join results="s" scope ="root" target="#w654 #w655 #w656 #w657 #w658 #w659 #w660 #w661 #w662 #w663 #w664 "/>
+<join results="s" scope ="root" target="#w665 #w666 #w667 #w668 #w669 "/>
+<join results="s" scope ="root" target="#w670 #w671 #w672 #w673 #w674 #w675 #w676 #w677 #w678 #w679 #w680 #w681 #w682 #w683 #w684 "/>
+<join results="s" scope ="root" target="#w685 #w686 #w687 "/>
+<join results="s" scope ="root" target="#w688 #w689 #w690 #w691 #w692 #w693 #w694 #w695 #w696 #w697 #w698 #w699 #w700 #w701 #w702 #w703 "/>
+<join results="s" scope ="root" target="#w704 #w705 #w706 #w707 #w708 #w709 #w710 #w711 "/>
+<join results="s" scope ="root" target="#w712 #w713 #w714 #w715 #w716 #w717 #w718 #w719 #w720 "/>
+<join results="s" scope ="root" target="#w721 #w722 #w723 #w724 #w725 #w726 #w727 "/>
+<join results="s" scope ="root" target="#w728 #w729 #w730 #w731 #w732 #w733 #w734 #w735 #w736 #w737 #w738 #w739 #w740 #w741 #w742 #w743 #w744 #w745 "/>
+<join results="s" scope ="root" target="#w746 #w747 #w748 #w749 #w750 #w751 #w752 #w753 #w754 #w755 #w756 #w757 #w758 #w759 #w760 #w761 #w762 #w763 #w764 #w765 #w766 #w767 #w768 #w769 "/>
+<join results="s" scope ="root" target="#w770 #w771 #w772 #w773 #w774 #w775 #w776 #w777 #w778 #w779 #w780 #w781 #w782 #w783 "/>
+<join results="s" scope ="root" target="#w784 #w785 #w786 #w787 #w788 #w789 #w790 #w791 #w792 #w793 #w794 #w795 #w796 #w797 #w798 "/>
+<join results="s" scope ="root" target="#w799 #w800 #w801 #w802 #w803 #w804 #w805 #w806 "/>
+<join results="s" scope ="root" target="#w807 #w808 #w809 #w810 #w811 #w812 #w813 #w814 #w815 #w816 #w817 #w818 #w819 #w820 #w821 #w822 #w823 "/>
+<join results="s" scope ="root" target="#w824 #w825 #w826 #w827 #w828 #w829 #w830 #w831 "/>
+<join results="s" scope ="root" target="#w832 #w833 #w834 #w835 #w836 #w837 #w838 #w839 #w840 #w841 "/>
+<join results="s" scope ="root" target="#w842 #w843 #w844 #w845 #w846 #w847 #w848 #w849 "/>
+<join results="s" scope ="root" target="#w850 #w851 #w852 #w853 #w854 #w855 #w856 #w857 #w858 #w859 #w860 #w861 "/>
+<join results="s" scope ="root" target="#w862 #w863 #w864 #w865 "/>
+<join results="s" scope ="root" target="#w866 #w867 #w868 #w869 #w870 #w871 #w872 #w873 #w874 "/>
+<join results="s" scope ="root" target="#w875 #w876 #w877 #w878 #w879 #w880 #w881 #w882 #w883 #w884 #w885 #w886 #w887 #w888 #w889 #w890 #w891 "/>
+<join results="s" scope ="root" target="#w892 #w893 #w894 #w895 #w896 #w897 #w898 #w899 #w900 #w901 #w902 "/>
+<join results="s" scope ="root" target="#w903 #w904 #w905 #w906 #w907 #w908 #w909 #w910 #w911 #w912 #w913 #w914 #w915 #w916 #w917 #w918 #w919 #w920 #w921 #w922 #w923 #w924 #w925 #w926 "/>
+<join results="s" scope ="root" target="#w927 #w928 #w929 #w930 #w931 #w932 #w933 #w934 "/>
+<join results="s" scope ="root" target="#w935 #w936 #w937 #w938 #w939 #w940 #w941 #w942 #w943 #w944 #w945 #w946 #w947 #w948 #w949 #w950 "/>
+<join results="s" scope ="root" target="#w951 #w952 #w953 #w954 #w955 #w956 #w957 #w958 #w959 #w960 #w961 #w962 #w963 #w964 #w965 #w966 #w967 #w968 #w969 #w970 "/>
+<join results="s" scope ="root" target="#w971 #w972 #w973 #w974 #w975 #w976 #w977 #w978 #w979 #w980 #w981 #w982 #w983 #w984 "/>
+<join results="s" scope ="root" target="#w985 #w986 #w987 #w988 #w989 #w990 #w991 #w992 #w993 #w994 #w995 #w996 #w997 #w998 #w999 "/>
+<join results="s" scope ="root" target="#w1000 #w1001 #w1002 #w1003 #w1004 #w1005 #w1006 #w1007 #w1008 #w1009 #w1010 #w1011 #w1012 #w1013 #w1014 #w1015 #w1016 "/>
+<join results="s" scope ="root" target="#w1017 #w1018 #w1019 #w1020 #w1021 #w1022 #w1023 #w1024 #w1025 #w1026 #w1027 #w1028 #w1029 #w1030 #w1031 #w1032 #w1033 "/>
+<join results="s" scope ="root" target="#w1034 #w1035 #w1036 #w1037 #w1038 #w1039 #w1040 #w1041 #w1042 #w1043 #w1044 #w1045 #w1046 #w1047 #w1048 #w1049 #w1050 #w1051 #w1052 #w1053 #w1054 #w1055 #w1056 #w1057 #w1058 #w1059 #w1060 #w1061 #w1062 #w1063 #w1064 #w1065 #w1066 #w1067 #w1068 #w1069 #w1070 #w1071 #w1072 #w1073 #w1074 #w1075 "/>
+<join results="s" scope ="root" target="#w1076 #w1077 #w1078 #w1079 #w1080 "/>
+<join results="s" scope ="root" target="#w1081 #w1082 #w1083 #w1084 #w1085 #w1086 #w1087 "/>
+<join results="s" scope ="root" target="#w1088 #w1089 #w1090 #w1091 #w1092 #w1093 #w1094 #w1095 #w1096 #w1097 "/>
+<join results="s" scope ="root" target="#w1098 #w1099 #w1100 #w1101 #w1102 #w1103 #w1104 #w1105 #w1106 #w1107 #w1108 #w1109 #w1110 #w1111 #w1112 #w1113 #w1114 #w1115 #w1116 "/>
+<join results="s" scope ="root" target="#w1117 #w1118 #w1119 #w1120 #w1121 #w1122 #w1123 #w1124 #w1125 #w1126 #w1127 #w1128 #w1129 #w1130 #w1131 #w1132 #w1133 "/>
+<join results="s" scope ="root" target="#w1134 #w1135 #w1136 #w1137 #w1138 #w1139 #w1140 #w1141 #w1142 #w1143 #w1144 #w1145 #w1146 #w1147 "/>
+<join results="s" scope ="root" target="#w1148 #w1149 #w1150 #w1151 #w1152 #w1153 #w1154 "/>
+<join results="s" scope ="root" target="#w1155 #w1156 #w1157 #w1158 #w1159 #w1160 #w1161 #w1162 #w1163 #w1164 #w1165 #w1166 "/>
+<join results="s" scope ="root" target="#w1167 #w1168 #w1169 #w1170 #w1171 #w1172 #w1173 #w1174 #w1175 #w1176 #w1177 #w1178 "/>
+<join results="s" scope ="root" target="#w1179 #w1180 #w1181 #w1182 #w1183 "/>
+<join results="s" scope ="root" target="#w1184 #w1185 #w1186 #w1187 #w1188 #w1189 #w1190 #w1191 #w1192 #w1193 #w1194 #w1195 #w1196 #w1197 "/>
+<join results="s" scope ="root" target="#w1198 #w1199 #w1200 #w1201 #w1202 #w1203 #w1204 #w1205 #w1206 #w1207 #w1208 #w1209 #w1210 #w1211 #w1212 #w1213 #w1214 #w1215 #w1216 #w1217 "/>
+<join results="s" scope ="root" target="#w1218 #w1219 #w1220 #w1221 #w1222 #w1223 #w1224 #w1225 #w1226 #w1227 "/>
+<join results="s" scope ="root" target="#w1228 #w1229 #w1230 #w1231 #w1232 #w1233 #w1234 #w1235 #w1236 #w1237 #w1238 #w1239 #w1240 #w1241 #w1242 #w1243 #w1244 #w1245 #w1246 "/>
+<join results="s" scope ="root" target="#w1247 #w1248 #w1249 #w1250 #w1251 #w1252 #w1253 #w1254 #w1255 #w1256 #w1257 #w1258 #w1259 #w1260 #w1261 #w1262 #w1263 #w1264 #w1265 #w1266 "/>
+<join results="s" scope ="root" target="#w1267 #w1268 #w1269 #w1270 #w1271 #w1272 #w1273 #w1274 #w1275 #w1276 #w1277 "/>
+<join results="s" scope ="root" target="#w1278 #w1279 #w1280 #w1281 #w1282 #w1283 #w1284 #w1285 #w1286 "/>
+<join results="s" scope ="root" target="#w1287 #w1288 #w1289 #w1290 #w1291 #w1292 #w1293 #w1294 #w1295 "/>
+<join results="s" scope ="root" target="#w1296 #w1297 #w1298 #w1299 #w1300 #w1301 "/>
+<join results="s" scope ="root" target="#w1302 #w1303 #w1304 #w1305 #w1306 #w1307 #w1308 #w1309 #w1310 #w1311 "/>
+<join results="s" scope ="root" target="#w1312 #w1313 #w1314 #w1315 #w1316 #w1317 #w1318 "/>
+<join results="s" scope ="root" target="#w1319 #w1320 #w1321 #w1322 #w1323 "/>
+<join results="s" scope ="root" target="#w1324 #w1325 #w1326 #w1327 #w1328 #w1329 #w1330 "/>
+<join results="s" scope ="root" target="#w1331 #w1332 #w1333 #w1334 #w1335 "/>
+<join results="s" scope ="root" target="#w1336 #w1337 #w1338 #w1339 #w1340 #w1341 #w1342 #w1343 "/>
+<join results="s" scope ="root" target="#w1344 #w1345 #w1346 #w1347 #w1348 #w1349 #w1350 "/>
+<join results="s" scope ="root" target="#w1351 #w1352 #w1353 #w1354 #w1355 #w1356 #w1357 "/>
+<join results="s" scope ="root" target="#w1358 #w1359 #w1360 #w1361 "/>
+<join results="s" scope ="root" target="#w1362 #w1363 #w1364 #w1365 #w1366 #w1367 #w1368 #w1369 #w1370 #w1371 "/>
+<join results="s" scope ="root" target="#w1372 #w1373 #w1374 #w1375 #w1376 #w1377 #w1378 #w1379 "/>
+<join results="s" scope ="root" target="#w1380 #w1381 #w1382 #w1383 #w1384 #w1385 #w1386 "/>
+<join results="s" scope ="root" target="#w1387 #w1388 #w1389 #w1390 #w1391 #w1392 #w1393 #w1394 #w1395 "/>
+<join results="s" scope ="root" target="#w1396 #w1397 #w1398 #w1399 #w1400 #w1401 #w1402 #w1403 #w1404 #w1405 #w1406 "/>
+<join results="s" scope ="root" target="#w1407 #w1408 #w1409 #w1410 #w1411 #w1412 #w1413 #w1414 #w1415 #w1416 #w1417 #w1418 #w1419 #w1420 #w1421 #w1422 #w1423 #w1424 "/>
+<join results="s" scope ="root" target="#w1425 #w1426 #w1427 #w1428 #w1429 #w1430 #w1431 #w1432 #w1433 #w1434 #w1435 #w1436 #w1437 "/>
+<join results="s" scope ="root" target="#w1438 #w1439 #w1440 #w1441 #w1442 #w1443 #w1444 "/>
+<join results="s" scope ="root" target="#w1445 #w1446 #w1447 #w1448 #w1449 #w1450 #w1451 #w1452 "/>
+<join results="s" scope ="root" target="#w1453 #w1454 #w1455 #w1456 #w1457 #w1458 #w1459 #w1460 #w1461 #w1462 #w1463 #w1464 #w1465 #w1466 #w1467 #w1468 #w1469 "/>
+<join results="s" scope ="root" target="#w1470 #w1471 #w1472 #w1473 #w1474 #w1475 #w1476 #w1477 #w1478 #w1479 "/>
+<join results="s" scope ="root" target="#w1480 #w1481 #w1482 #w1483 #w1484 #w1485 #w1486 #w1487 #w1488 #w1489 #w1490 #w1491 "/>
+<join results="s" scope ="root" target="#w1492 #w1493 #w1494 #w1495 #w1496 #w1497 "/>
+<join results="s" scope ="root" target="#w1498 #w1499 #w1500 #w1501 #w1502 #w1503 #w1504 #w1505 "/>
+<join results="s" scope ="root" target="#w1506 #w1507 #w1508 #w1509 #w1510 #w1511 #w1512 "/>
+<join results="s" scope ="root" target="#w1513 #w1514 #w1515 #w1516 #w1517 #w1518 #w1519 #w1520 #w1521 #w1522 #w1523 #w1524 "/>
+<join results="s" scope ="root" target="#w1525 #w1526 #w1527 #w1528 #w1529 #w1530 #w1531 "/>
+<join results="s" scope ="root" target="#w1532 #w1533 #w1534 #w1535 #w1536 #w1537 #w1538 #w1539 #w1540 "/>
+<join results="s" scope ="root" target="#w1541 #w1542 #w1543 #w1544 #w1545 #w1546 #w1547 #w1548 #w1549 #w1550 #w1551 #w1552 #w1553 #w1554 "/>
+<join results="s" scope ="root" target="#w1555 #w1556 #w1557 #w1558 #w1559 #w1560 #w1561 #w1562 #w1563 #w1564 #w1565 #w1566 #w1567 "/>
+<join results="s" scope ="root" target="#w1568 #w1569 #w1570 #w1571 #w1572 #w1573 #w1574 #w1575 "/>
+<join results="s" scope ="root" target="#w1576 #w1577 #w1578 #w1579 #w1580 "/>
+<join results="s" scope ="root" target="#w1581 #w1582 #w1583 "/>
+<join results="s" scope ="root" target="#w1584 #w1585 #w1586 #w1587 #w1588 #w1589 #w1590 "/>
+<join results="s" scope ="root" target="#w1591 #w1592 #w1593 #w1594 #w1595 #w1596 #w1597 #w1598 #w1599 #w1600 #w1601 #w1602 "/>
+<join results="s" scope ="root" target="#w1603 #w1604 #w1605 #w1606 #w1607 #w1608 #w1609 "/>
+<join results="s" scope ="root" target="#w1610 #w1611 #w1612 #w1613 #w1614 #w1615 #w1616 #w1617 #w1618 #w1619 #w1620 #w1621 #w1622 #w1623 "/>
+<join results="s" scope ="root" target="#w1624 #w1625 #w1626 #w1627 #w1628 #w1629 #w1630 #w1631 #w1632 #w1633 #w1634 "/>
+<join results="s" scope ="root" target="#w1635 #w1636 #w1637 #w1638 #w1639 #w1640 #w1641 #w1642 #w1643 #w1644 #w1645 #w1646 #w1647 "/>
+<join results="s" scope ="root" target="#w1648 #w1649 #w1650 #w1651 #w1652 #w1653 "/>
+<join results="s" scope ="root" target="#w1654 #w1655 #w1656 #w1657 #w1658 #w1659 #w1660 #w1661 #w1662 #w1663 #w1664 #w1665 #w1666 #w1667 "/>
+<join results="s" scope ="root" target="#w1668 #w1669 #w1670 #w1671 #w1672 #w1673 #w1674 #w1675 #w1676 "/>
+<join results="p" scope ="root" target="#w2 #w3 "/>
+<join results="p" scope ="root" target="#w4 #w5 #w6 #w7 #w8 #w9 #w10 #w11 #w12 #w13 #w14 #w15 #w16 #w17 #w18 #w19 #w20 #w21 #w22 #w23 #w24 #w25 #w26 #w27 #w28 #w29 #w30 #w31 #w32 #w33 #w34 #w35 #w36 #w37 #w38 #w39 #w40 #w41 #w42 #w43 #w44 #w45 #w46 #w47 #w48 #w49 #w50 #w51 #w52 #w53 #w54 #w55 #w56 #w57 #w58 #w59 #w60 #w61 #w62 #w63 #w64 #w65 #w66 #w67 #w68 #w69 #w70 #w71 #w72 #w73 #w74 #w75 #w76 #w77 #w78 #w79 #w80 #w81 #w82 #w83 #w84 #w85 #w86 #w87 #w88 #w89 #w90 #w91 #w92 #w93 #w94 #w95 #w96 #w97 #w98 #w99 #w100 #w101 #w102 #w103 #w104 #w105 #w106 #w107 #w108 #w109 #w110 #w111 #w112 #w113 #w114 #w115 #w116 #w117 #w118 #w119 #w120 #w121 #w122 #w123 #w124 #w125 #w126 #w127 #w128 #w129 #w130 #w131 #w132 #w133 #w134 #w135 #w136 #w137 #w138 #w139 #w140 #w141 #w142 #w143 #w144 #w145 #w146 #w147 #w148 #w149 #w150 #w151 #w152 #w153 #w154 #w155 #w156 #w157 #w158 #w159 #w160 #w161 #w162 #w163 #w164 #w165 #w166 #w167 #w168 #w169 #w170 #w171 #w172 #w173 #w174 #w175 "/>
+<join results="p" scope ="root" target="#w176 #w177 #w178 #w179 #w180 #w181 #w182 #w183 #w184 #w185 #w186 #w187 #w188 #w189 #w190 #w191 #w192 #w193 #w194 #w195 #w196 #w197 #w198 #w199 #w200 #w201 #w202 #w203 #w204 #w205 #w206 #w207 #w208 #w209 #w210 #w211 #w212 #w213 #w214 #w215 #w216 #w217 #w218 #w219 #w220 #w221 #w222 #w223 #w224 #w225 #w226 #w227 #w228 #w229 #w230 #w231 #w232 #w233 #w234 #w235 #w236 #w237 "/>
+<join results="p" scope ="root" target="#w238 #w239 #w240 #w241 #w242 #w243 #w244 #w245 #w246 #w247 #w248 #w249 #w250 #w251 #w252 #w253 #w254 #w255 #w256 #w257 #w258 #w259 #w260 #w261 #w262 #w263 #w264 #w265 #w266 #w267 #w268 #w269 #w270 #w271 #w272 #w273 #w274 #w275 #w276 #w277 #w278 #w279 #w280 #w281 #w282 #w283 #w284 #w285 #w286 #w287 #w288 #w289 #w290 #w291 #w292 #w293 #w294 #w295 "/>
+<join results="p" scope ="root" target="#w296 #w297 #w298 #w299 #w300 #w301 #w302 #w303 #w304 #w305 #w306 #w307 #w308 #w309 #w310 #w311 #w312 #w313 #w314 #w315 #w316 #w317 #w318 #w319 #w320 #w321 #w322 #w323 #w324 #w325 #w326 #w327 #w328 #w329 #w330 #w331 #w332 #w333 #w334 #w335 #w336 #w337 #w338 #w339 #w340 #w341 #w342 #w343 #w344 #w345 #w346 #w347 #w348 #w349 #w350 #w351 #w352 #w353 #w354 #w355 #w356 #w357 #w358 #w359 #w360 #w361 #w362 #w363 #w364 #w365 #w366 #w367 #w368 #w369 #w370 #w371 #w372 #w373 #w374 #w375 "/>
+<join results="p" scope ="root" target="#w376 #w377 #w378 #w379 #w380 #w381 #w382 #w383 #w384 #w385 #w386 #w387 #w388 #w389 #w390 #w391 #w392 #w393 #w394 #w395 #w396 #w397 #w398 #w399 #w400 #w401 #w402 #w403 #w404 #w405 #w406 #w407 #w408 #w409 #w410 #w411 #w412 #w413 #w414 #w415 #w416 #w417 #w418 #w419 #w420 #w421 #w422 #w423 #w424 #w425 #w426 #w427 #w428 "/>
+<join results="p" scope ="root" target="#w429 #w430 #w431 #w432 #w433 #w434 #w435 #w436 #w437 #w438 #w439 #w440 #w441 #w442 #w443 #w444 #w445 #w446 #w447 #w448 #w449 #w450 #w451 #w452 #w453 #w454 #w455 #w456 #w457 #w458 #w459 #w460 #w461 #w462 #w463 #w464 #w465 #w466 #w467 #w468 #w469 #w470 #w471 #w472 #w473 #w474 #w475 #w476 #w477 #w478 #w479 #w480 #w481 #w482 #w483 #w484 "/>
+<join results="p" scope ="root" target="#w485 #w486 #w487 #w488 #w489 #w490 #w491 #w492 #w493 #w494 #w495 #w496 #w497 #w498 #w499 #w500 #w501 #w502 #w503 #w504 #w505 #w506 #w507 #w508 #w509 #w510 #w511 #w512 #w513 #w514 #w515 #w516 #w517 #w518 #w519 #w520 #w521 #w522 #w523 #w524 #w525 #w526 #w527 #w528 #w529 #w530 #w531 #w532 #w533 #w534 #w535 #w536 #w537 #w538 #w539 #w540 #w541 #w542 #w543 #w544 #w545 #w546 #w547 #w548 #w549 #w550 #w551 #w552 #w553 #w554 #w555 #w556 "/>
+<join results="p" scope ="root" target="#w557 #w558 #w559 #w560 #w561 #w562 #w563 #w564 #w565 #w566 #w567 #w568 #w569 #w570 #w571 #w572 #w573 #w574 #w575 #w576 #w577 #w578 #w579 #w580 #w581 #w582 #w583 #w584 #w585 #w586 #w587 #w588 #w589 #w590 #w591 #w592 #w593 #w594 #w595 #w596 #w597 #w598 #w599 #w600 #w601 #w602 #w603 #w604 #w605 #w606 #w607 #w608 #w609 #w610 #w611 #w612 #w613 "/>
+<join results="p" scope ="root" target="#w614 #w615 #w616 #w617 #w618 #w619 #w620 #w621 #w622 #w623 #w624 #w625 #w626 #w627 #w628 #w629 #w630 #w631 #w632 #w633 #w634 #w635 #w636 #w637 #w638 #w639 #w640 #w641 #w642 #w643 #w644 #w645 #w646 #w647 #w648 #w649 #w650 #w651 #w652 #w653 "/>
+<join results="p" scope ="root" target="#w654 #w655 #w656 #w657 #w658 #w659 #w660 #w661 #w662 #w663 #w664 #w665 #w666 #w667 #w668 #w669 #w670 #w671 #w672 #w673 #w674 #w675 #w676 #w677 #w678 #w679 #w680 #w681 #w682 #w683 #w684 #w685 #w686 #w687 #w688 #w689 #w690 #w691 #w692 #w693 #w694 #w695 #w696 #w697 #w698 #w699 #w700 #w701 #w702 #w703 "/>
+<join results="p" scope ="root" target="#w704 #w705 #w706 #w707 #w708 #w709 #w710 #w711 #w712 #w713 #w714 #w715 #w716 #w717 #w718 #w719 #w720 #w721 #w722 #w723 #w724 #w725 #w726 #w727 #w728 #w729 #w730 #w731 #w732 #w733 #w734 #w735 #w736 #w737 #w738 #w739 #w740 #w741 #w742 #w743 #w744 #w745 #w746 #w747 #w748 #w749 #w750 #w751 #w752 #w753 #w754 #w755 #w756 #w757 #w758 #w759 #w760 #w761 #w762 #w763 #w764 #w765 #w766 #w767 #w768 #w769 "/>
+<join results="p" scope ="root" target="#w770 #w771 #w772 #w773 #w774 #w775 #w776 #w777 #w778 #w779 #w780 #w781 #w782 #w783 #w784 #w785 #w786 #w787 #w788 #w789 #w790 #w791 #w792 #w793 #w794 #w795 #w796 #w797 #w798 #w799 #w800 #w801 #w802 #w803 #w804 #w805 #w806 #w807 #w808 #w809 #w810 #w811 #w812 #w813 #w814 #w815 #w816 #w817 #w818 #w819 #w820 #w821 #w822 #w823 "/>
+<join results="p" scope ="root" target="#w824 #w825 #w826 #w827 #w828 #w829 #w830 #w831 #w832 #w833 #w834 #w835 #w836 #w837 #w838 #w839 #w840 #w841 #w842 #w843 #w844 #w845 #w846 #w847 #w848 #w849 #w850 #w851 #w852 #w853 #w854 #w855 #w856 #w857 #w858 #w859 #w860 #w861 #w862 #w863 #w864 #w865 #w866 #w867 #w868 #w869 #w870 #w871 #w872 #w873 #w874 "/>
+<join results="p" scope ="root" target="#w875 #w876 #w877 #w878 #w879 #w880 #w881 #w882 #w883 #w884 #w885 #w886 #w887 #w888 #w889 #w890 #w891 #w892 #w893 #w894 #w895 #w896 #w897 #w898 #w899 #w900 #w901 #w902 #w903 #w904 #w905 #w906 #w907 #w908 #w909 #w910 #w911 #w912 #w913 #w914 #w915 #w916 #w917 #w918 #w919 #w920 #w921 #w922 #w923 #w924 #w925 #w926 #w927 #w928 #w929 #w930 #w931 #w932 #w933 #w934 #w935 #w936 #w937 #w938 #w939 #w940 #w941 #w942 #w943 #w944 #w945 #w946 #w947 #w948 #w949 #w950 "/>
+<join results="p" scope ="root" target="#w951 #w952 #w953 #w954 "/>
+<join results="p" scope ="root" target="#w955 #w956 #w957 #w958 "/>
+<join results="p" scope ="root" target="#w959 #w960 #w961 #w962 #w963 #w964 #w965 #w966 #w967 #w968 #w969 #w970 #w971 #w972 #w973 #w974 #w975 #w976 #w977 #w978 #w979 #w980 #w981 #w982 #w983 #w984 #w985 #w986 #w987 #w988 #w989 #w990 #w991 #w992 #w993 #w994 #w995 #w996 #w997 #w998 #w999 #w1000 #w1001 #w1002 #w1003 #w1004 #w1005 #w1006 #w1007 #w1008 #w1009 #w1010 #w1011 #w1012 #w1013 #w1014 #w1015 #w1016 #w1017 #w1018 #w1019 #w1020 #w1021 #w1022 #w1023 #w1024 #w1025 #w1026 #w1027 #w1028 #w1029 #w1030 #w1031 #w1032 #w1033 "/>
+<join results="p" scope ="root" target="#w1034 #w1035 #w1036 #w1037 #w1038 #w1039 #w1040 #w1041 #w1042 #w1043 #w1044 #w1045 #w1046 "/>
+<join results="p" scope ="root" target="#w1047 #w1048 #w1049 #w1050 #w1051 #w1052 #w1053 #w1054 "/>
+<join results="p" scope ="root" target="#w1055 #w1056 #w1057 #w1058 "/>
+<join results="p" scope ="root" target="#w1059 #w1060 #w1061 #w1062 #w1063 "/>
+<join results="p" scope ="root" target="#w1064 #w1065 #w1066 #w1067 "/>
+<join results="p" scope ="root" target="#w1068 #w1069 #w1070 #w1071 "/>
+<join results="p" scope ="root" target="#w1072 #w1073 #w1074 #w1075 #w1076 #w1077 #w1078 #w1079 #w1080 #w1081 #w1082 #w1083 #w1084 #w1085 #w1086 #w1087 #w1088 #w1089 #w1090 #w1091 #w1092 #w1093 #w1094 #w1095 #w1096 #w1097 #w1098 #w1099 #w1100 #w1101 #w1102 #w1103 #w1104 #w1105 #w1106 #w1107 #w1108 #w1109 #w1110 #w1111 #w1112 #w1113 #w1114 #w1115 #w1116 #w1117 #w1118 #w1119 #w1120 #w1121 #w1122 #w1123 #w1124 #w1125 #w1126 #w1127 #w1128 #w1129 #w1130 #w1131 #w1132 #w1133 #w1134 #w1135 #w1136 #w1137 #w1138 #w1139 #w1140 #w1141 #w1142 #w1143 #w1144 #w1145 #w1146 #w1147 #w1148 #w1149 #w1150 #w1151 #w1152 #w1153 #w1154 #w1155 #w1156 #w1157 #w1158 #w1159 #w1160 #w1161 #w1162 #w1163 #w1164 #w1165 #w1166 #w1167 #w1168 #w1169 #w1170 #w1171 #w1172 #w1173 #w1174 #w1175 #w1176 #w1177 #w1178 #w1179 #w1180 #w1181 #w1182 #w1183 #w1184 #w1185 #w1186 #w1187 #w1188 #w1189 #w1190 #w1191 #w1192 #w1193 #w1194 #w1195 #w1196 #w1197 #w1198 #w1199 #w1200 #w1201 #w1202 #w1203 #w1204 #w1205 #w1206 #w1207 #w1208 #w1209 #w1210 #w1211 #w1212 #w1213 #w1214 #w1215 #w1216 #w1217 #w1218 #w1219 #w1220 #w1221 #w1222 #w1223 #w1224 #w1225 #w1226 #w1227 #w1228 #w1229 #w1230 #w1231 #w1232 #w1233 #w1234 #w1235 #w1236 #w1237 #w1238 #w1239 #w1240 #w1241 #w1242 #w1243 #w1244 #w1245 #w1246 #w1247 #w1248 #w1249 #w1250 #w1251 #w1252 #w1253 #w1254 #w1255 #w1256 #w1257 #w1258 #w1259 #w1260 #w1261 #w1262 #w1263 #w1264 #w1265 #w1266 "/>
+<join results="p" scope ="root" target="#w1267 #w1268 #w1269 #w1270 #w1271 #w1272 #w1273 #w1274 #w1275 #w1276 #w1277 #w1278 #w1279 #w1280 #w1281 #w1282 #w1283 #w1284 #w1285 #w1286 #w1287 #w1288 #w1289 #w1290 #w1291 #w1292 #w1293 #w1294 #w1295 #w1296 #w1297 #w1298 #w1299 #w1300 #w1301 #w1302 #w1303 #w1304 #w1305 #w1306 #w1307 #w1308 #w1309 #w1310 #w1311 "/>
+<join results="p" scope ="root" target="#w1312 #w1313 #w1314 #w1315 #w1316 #w1317 #w1318 #w1319 #w1320 #w1321 #w1322 #w1323 #w1324 #w1325 #w1326 #w1327 #w1328 #w1329 #w1330 #w1331 #w1332 #w1333 #w1334 #w1335 #w1336 #w1337 #w1338 #w1339 #w1340 #w1341 #w1342 #w1343 #w1344 #w1345 #w1346 #w1347 #w1348 #w1349 #w1350 #w1351 #w1352 #w1353 #w1354 #w1355 #w1356 #w1357 #w1358 #w1359 #w1360 #w1361 "/>
+<join results="p" scope ="root" target="#w1362 #w1363 #w1364 #w1365 #w1366 #w1367 #w1368 #w1369 #w1370 #w1371 #w1372 #w1373 #w1374 #w1375 #w1376 #w1377 #w1378 #w1379 #w1380 #w1381 #w1382 #w1383 #w1384 #w1385 #w1386 #w1387 #w1388 #w1389 #w1390 #w1391 #w1392 #w1393 #w1394 #w1395 #w1396 #w1397 #w1398 #w1399 #w1400 #w1401 #w1402 #w1403 #w1404 #w1405 #w1406 #w1407 #w1408 #w1409 #w1410 #w1411 #w1412 #w1413 #w1414 #w1415 #w1416 #w1417 #w1418 #w1419 #w1420 #w1421 #w1422 #w1423 #w1424 #w1425 #w1426 #w1427 #w1428 #w1429 #w1430 #w1431 #w1432 #w1433 #w1434 #w1435 #w1436 #w1437 #w1438 #w1439 #w1440 #w1441 #w1442 #w1443 #w1444 #w1445 #w1446 #w1447 #w1448 #w1449 #w1450 #w1451 #w1452 "/>
+<join results="p" scope ="root" target="#w1453 #w1454 #w1455 #w1456 #w1457 #w1458 #w1459 #w1460 #w1461 #w1462 #w1463 #w1464 #w1465 #w1466 #w1467 #w1468 #w1469 #w1470 #w1471 #w1472 #w1473 #w1474 #w1475 #w1476 #w1477 #w1478 #w1479 "/>
+<join results="p" scope ="root" target="#w1480 #w1481 #w1482 #w1483 #w1484 #w1485 #w1486 #w1487 #w1488 #w1489 #w1490 #w1491 #w1492 #w1493 #w1494 #w1495 #w1496 #w1497 #w1498 #w1499 #w1500 #w1501 #w1502 #w1503 #w1504 #w1505 #w1506 #w1507 #w1508 #w1509 #w1510 #w1511 #w1512 "/>
+<join results="p" scope ="root" target="#w1513 #w1514 #w1515 #w1516 #w1517 #w1518 #w1519 #w1520 #w1521 #w1522 #w1523 #w1524 #w1525 #w1526 #w1527 #w1528 #w1529 #w1530 #w1531 #w1532 #w1533 #w1534 #w1535 #w1536 #w1537 #w1538 #w1539 #w1540 #w1541 #w1542 #w1543 #w1544 #w1545 #w1546 #w1547 #w1548 #w1549 #w1550 #w1551 #w1552 #w1553 #w1554 "/>
+<join results="p" scope ="root" target="#w1555 #w1556 #w1557 #w1558 #w1559 #w1560 #w1561 #w1562 #w1563 #w1564 #w1565 #w1566 #w1567 #w1568 #w1569 #w1570 #w1571 #w1572 #w1573 #w1574 #w1575 #w1576 #w1577 #w1578 #w1579 #w1580 #w1581 #w1582 #w1583 #w1584 #w1585 #w1586 #w1587 #w1588 #w1589 #w1590 "/>
+<join results="p" scope ="root" target="#w1591 #w1592 #w1593 #w1594 #w1595 #w1596 #w1597 #w1598 #w1599 #w1600 #w1601 #w1602 #w1603 #w1604 #w1605 #w1606 #w1607 #w1608 #w1609 #w1610 #w1611 #w1612 #w1613 #w1614 #w1615 #w1616 #w1617 #w1618 #w1619 #w1620 #w1621 #w1622 #w1623 #w1624 #w1625 #w1626 #w1627 #w1628 #w1629 #w1630 #w1631 #w1632 #w1633 #w1634 "/>
+</p>
+</p>
+</body>
+</text>
+</TEI>

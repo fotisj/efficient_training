@@ -1,0 +1,8 @@
+#ignore backup files and large binaries
+*.bak
+*.bin
+cached*_128
+
+#ignore these directories 
+__pycache__
+scripts/runs
