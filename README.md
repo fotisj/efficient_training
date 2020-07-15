@@ -23,7 +23,7 @@ Then just run:
 Trained from scratch
 * Data: 10GB raw text, 19.200.200 training examples (DOC-SENTENCE style, see Roberta Paper)
 * Batch size: 64
-* Device: 2080 GTX
+* Device: RTX 2080ti 
 * Training steps: 1.600.000
 * Training time: 14d
 
