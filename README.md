@@ -16,3 +16,15 @@ Then just run:
 > python crossvalidation.py crossval.json
 
 
+# models
+
+## electra-small
+
+Trained from scratch
+* Data: 10GB raw text, 19.200.200 training examples
+* Batch size: 64
+* Device: 2080 GTX
+* Training steps: 1.600.000
+* Training time: 14d
+
+
