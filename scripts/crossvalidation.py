@@ -171,6 +171,9 @@ def preprocessing(data_dir, model_name):
 
 def cross_validate(n_folds, data_src_dir, data_dir, pretrained_model, finetuned_model, 
                    result_file, all_results_file):
+    if Path(finetuned_model).exists():
+        remove_trained_model(finetuned_model)
+
     folds = prepare_all_data(data_src_dir, int(n_folds))
     c = 1
     for fold in folds:
