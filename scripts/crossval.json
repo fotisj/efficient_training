@@ -1,4 +1,4 @@
-{   "model_name_or_path": "../models/droc-model-electra-pretrained",
+{   "model_name_or_path": "../models/electra-pretrained",
     "n_folds" : "5",
     "data_src_dir" : "../data/redewiedergabe/redewiedergabe-conll", 
     "data_dir" : "../data/redewiedergabe/data", 

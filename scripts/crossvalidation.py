@@ -101,11 +101,10 @@ def remove_trained_model(model_dir):
 
 
 def save_test_results(results_file, target_file):
-    sleep = 3
+    sleep = 1
     print('\n\n---------------------------------------------------------------')
     print(f'saving {results_file} in {sleep} secs')
     time.sleep(sleep)
-    shutil.copy(results_file, r'D:\mydata\Dropbox\uni\AUFSATZ\2020 Computational Humanities - Efficient historical modeling')    
     with open(target_file, 'a') as fout:
         with open(Path(results_file)) as fin:
             fout.write(fin.read())
@@ -180,7 +179,8 @@ def cross_validate(n_folds, data_src_dir, data_dir, pretrained_model, finetuned_
         preprocessing(data_dir, pretrained_model)
         fine_tuning()
         save_test_results(result_file, all_results_file)
-        remove_trained_model(finetuned_model)
+        if c < int(n_folds):
+            remove_trained_model(finetuned_model)
         c += 1
     calc_results(all_results_file)
     
@@ -200,7 +200,7 @@ def evaluate(datamodel, testfile):
         datamodel ([type]): [description]
         testfile ([type]): [description]
     """
-    
+    pass    
 
 
 

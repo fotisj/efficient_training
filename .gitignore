@@ -3,6 +3,7 @@
 *.bin
 *_128
 *.pt
+Ensemble.ipynb
 
 #ignore these directories 
 __pycache__
