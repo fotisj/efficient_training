@@ -1,7 +1,8 @@
 #ignore backup files and large binaries
 *.bak
 *.bin
-cached*_128
+*_128
+*.pt
 
 #ignore these directories 
 __pycache__
