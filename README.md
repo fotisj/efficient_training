@@ -21,7 +21,7 @@ Then just run:
 ## electra-small
 
 Trained from scratch
-* Data: 10GB raw text, 19.200.200 training examples (DOC-SENTENCE style, see Roberta Paper)
+* Data: 8GB raw text, 19.200.200 training examples (DOC-SENTENCE style, see Roberta Paper)
 * Batch size: 64
 * Device: RTX 2080ti 
 * Training steps: 1.600.000
