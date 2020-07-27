@@ -1,0 +1,72 @@
+2020-07-27 22:40:35,449 DEBUG   MainThread:39375 [wandb_config.py:_load_defaults():132] no defaults not found in config-defaults.yaml
+2020-07-27 22:40:35,618 DEBUG   MainThread:39375 [meta.py:_setup_code_git():49] probe for git information
+2020-07-27 22:40:35,645 DEBUG   MainThread:39375 [run_manager.py:__init__():546] Initialized sync for huggingface/2xk4urqe
+2020-07-27 22:40:35,651 INFO    MainThread:39375 [run_manager.py:wrap_existing_process():1148] wrapping existing process 39303
+2020-07-27 22:40:35,652 WARNING MainThread:39375 [io_wrap.py:register():104] SIGWINCH handler was not None: <Handlers.SIG_DFL: 0>
+2020-07-27 22:40:35,708 INFO    MainThread:39375 [run_manager.py:init_run():927] system metrics and metadata threads started
+2020-07-27 22:40:35,708 INFO    MainThread:39375 [run_manager.py:init_run():966] upserting run before process can begin, waiting at most 10 seconds
+2020-07-27 22:40:35,895 INFO    Thread-15 :39375 [run_manager.py:_upsert_run():1055] saving pip packages
+2020-07-27 22:40:35,896 INFO    Thread-15 :39375 [run_manager.py:_upsert_run():1057] initializing streaming files api
+2020-07-27 22:40:35,897 INFO    Thread-15 :39375 [run_manager.py:_upsert_run():1064] unblocking file change observer, beginning sync with W&B servers
+2020-07-27 22:40:35,897 INFO    MainThread:39375 [run_manager.py:wrap_existing_process():1165] informing user process we are ready to proceed
+2020-07-27 22:40:35,903 INFO    MainThread:39375 [run_manager.py:_sync_etc():1272] entering loop for messages from user process
+2020-07-27 22:40:36,615 INFO    Thread-4  :39375 [run_manager.py:_on_file_modified():691] file/dir modified: /home/konle/efficient_training/scripts/wandb/run-20200727_204034-2xk4urqe/config.yaml
+2020-07-27 22:40:36,813 INFO    Thread-4  :39375 [run_manager.py:_on_file_created():680] file/dir created: /home/konle/efficient_training/scripts/wandb/run-20200727_204034-2xk4urqe/output.log
+2020-07-27 22:40:36,813 INFO    Thread-4  :39375 [run_manager.py:_on_file_created():680] file/dir created: /home/konle/efficient_training/scripts/wandb/run-20200727_204034-2xk4urqe/requirements.txt
+2020-07-27 22:40:36,814 INFO    Thread-4  :39375 [run_manager.py:_on_file_created():680] file/dir created: /home/konle/efficient_training/scripts/wandb/run-20200727_204034-2xk4urqe/media/graph/graph_0_summary_fff06bee.graph.json
+2020-07-27 22:40:36,814 INFO    Thread-4  :39375 [run_manager.py:_on_file_created():680] file/dir created: /home/konle/efficient_training/scripts/wandb/run-20200727_204034-2xk4urqe/wandb-summary.json
+2020-07-27 22:40:36,815 INFO    Thread-4  :39375 [run_manager.py:_on_file_created():680] file/dir created: /home/konle/efficient_training/scripts/wandb/run-20200727_204034-2xk4urqe/wandb-metadata.json
+2020-07-27 22:40:36,816 INFO    Thread-4  :39375 [run_manager.py:_on_file_created():680] file/dir created: /home/konle/efficient_training/scripts/wandb/run-20200727_204034-2xk4urqe/media
+2020-07-27 22:40:36,816 INFO    Thread-4  :39375 [run_manager.py:_on_file_created():680] file/dir created: /home/konle/efficient_training/scripts/wandb/run-20200727_204034-2xk4urqe/media/graph
+2020-07-27 22:40:37,612 INFO    Thread-4  :39375 [run_manager.py:_on_file_modified():691] file/dir modified: /home/konle/efficient_training/scripts/wandb/run-20200727_204034-2xk4urqe/output.log
+2020-07-27 22:40:38,613 INFO    Thread-4  :39375 [run_manager.py:_on_file_modified():691] file/dir modified: /home/konle/efficient_training/scripts/wandb/run-20200727_204034-2xk4urqe/output.log
+2020-07-27 22:40:39,614 INFO    Thread-4  :39375 [run_manager.py:_on_file_modified():691] file/dir modified: /home/konle/efficient_training/scripts/wandb/run-20200727_204034-2xk4urqe/output.log
+2020-07-27 22:40:40,614 INFO    Thread-4  :39375 [run_manager.py:_on_file_modified():691] file/dir modified: /home/konle/efficient_training/scripts/wandb/run-20200727_204034-2xk4urqe/output.log
+2020-07-27 22:40:41,615 INFO    Thread-4  :39375 [run_manager.py:_on_file_modified():691] file/dir modified: /home/konle/efficient_training/scripts/wandb/run-20200727_204034-2xk4urqe/output.log
+2020-07-27 22:40:42,616 INFO    Thread-4  :39375 [run_manager.py:_on_file_modified():691] file/dir modified: /home/konle/efficient_training/scripts/wandb/run-20200727_204034-2xk4urqe/output.log
+2020-07-27 22:40:43,616 INFO    Thread-4  :39375 [run_manager.py:_on_file_modified():691] file/dir modified: /home/konle/efficient_training/scripts/wandb/run-20200727_204034-2xk4urqe/output.log
+2020-07-27 22:40:44,617 INFO    Thread-4  :39375 [run_manager.py:_on_file_modified():691] file/dir modified: /home/konle/efficient_training/scripts/wandb/run-20200727_204034-2xk4urqe/output.log
+2020-07-27 22:40:45,618 INFO    Thread-4  :39375 [run_manager.py:_on_file_modified():691] file/dir modified: /home/konle/efficient_training/scripts/wandb/run-20200727_204034-2xk4urqe/output.log
+2020-07-27 22:40:46,618 INFO    Thread-4  :39375 [run_manager.py:_on_file_modified():691] file/dir modified: /home/konle/efficient_training/scripts/wandb/run-20200727_204034-2xk4urqe/output.log
+2020-07-27 22:40:47,619 INFO    Thread-4  :39375 [run_manager.py:_on_file_modified():691] file/dir modified: /home/konle/efficient_training/scripts/wandb/run-20200727_204034-2xk4urqe/output.log
+2020-07-27 22:40:48,620 INFO    Thread-4  :39375 [run_manager.py:_on_file_modified():691] file/dir modified: /home/konle/efficient_training/scripts/wandb/run-20200727_204034-2xk4urqe/output.log
+2020-07-27 22:40:49,621 INFO    Thread-4  :39375 [run_manager.py:_on_file_modified():691] file/dir modified: /home/konle/efficient_training/scripts/wandb/run-20200727_204034-2xk4urqe/output.log
+2020-07-27 22:40:50,621 INFO    Thread-4  :39375 [run_manager.py:_on_file_modified():691] file/dir modified: /home/konle/efficient_training/scripts/wandb/run-20200727_204034-2xk4urqe/output.log
+2020-07-27 22:40:51,622 INFO    Thread-4  :39375 [run_manager.py:_on_file_modified():691] file/dir modified: /home/konle/efficient_training/scripts/wandb/run-20200727_204034-2xk4urqe/output.log
+2020-07-27 22:40:52,623 INFO    Thread-4  :39375 [run_manager.py:_on_file_modified():691] file/dir modified: /home/konle/efficient_training/scripts/wandb/run-20200727_204034-2xk4urqe/output.log
+2020-07-27 22:40:52,623 INFO    Thread-4  :39375 [run_manager.py:_on_file_modified():691] file/dir modified: /home/konle/efficient_training/scripts/wandb/run-20200727_204034-2xk4urqe/wandb-metadata.json
+2020-07-27 22:40:53,623 INFO    Thread-4  :39375 [run_manager.py:_on_file_modified():691] file/dir modified: /home/konle/efficient_training/scripts/wandb/run-20200727_204034-2xk4urqe/output.log
+2020-07-27 22:40:54,624 INFO    Thread-4  :39375 [run_manager.py:_on_file_modified():691] file/dir modified: /home/konle/efficient_training/scripts/wandb/run-20200727_204034-2xk4urqe/output.log
+2020-07-27 22:40:55,625 INFO    Thread-4  :39375 [run_manager.py:_on_file_modified():691] file/dir modified: /home/konle/efficient_training/scripts/wandb/run-20200727_204034-2xk4urqe/output.log
+2020-07-27 22:40:56,625 INFO    Thread-4  :39375 [run_manager.py:_on_file_modified():691] file/dir modified: /home/konle/efficient_training/scripts/wandb/run-20200727_204034-2xk4urqe/output.log
+2020-07-27 22:40:57,626 INFO    Thread-4  :39375 [run_manager.py:_on_file_modified():691] file/dir modified: /home/konle/efficient_training/scripts/wandb/run-20200727_204034-2xk4urqe/output.log
+2020-07-27 22:40:58,627 INFO    Thread-4  :39375 [run_manager.py:_on_file_modified():691] file/dir modified: /home/konle/efficient_training/scripts/wandb/run-20200727_204034-2xk4urqe/output.log
+2020-07-27 22:40:59,628 INFO    Thread-4  :39375 [run_manager.py:_on_file_modified():691] file/dir modified: /home/konle/efficient_training/scripts/wandb/run-20200727_204034-2xk4urqe/output.log
+2020-07-27 22:41:00,628 INFO    Thread-4  :39375 [run_manager.py:_on_file_modified():691] file/dir modified: /home/konle/efficient_training/scripts/wandb/run-20200727_204034-2xk4urqe/output.log
+2020-07-27 22:41:01,629 INFO    Thread-4  :39375 [run_manager.py:_on_file_modified():691] file/dir modified: /home/konle/efficient_training/scripts/wandb/run-20200727_204034-2xk4urqe/output.log
+2020-07-27 22:41:02,630 INFO    Thread-4  :39375 [run_manager.py:_on_file_modified():691] file/dir modified: /home/konle/efficient_training/scripts/wandb/run-20200727_204034-2xk4urqe/output.log
+2020-07-27 22:41:03,630 INFO    Thread-4  :39375 [run_manager.py:_on_file_modified():691] file/dir modified: /home/konle/efficient_training/scripts/wandb/run-20200727_204034-2xk4urqe/output.log
+2020-07-27 22:41:04,631 INFO    Thread-4  :39375 [run_manager.py:_on_file_modified():691] file/dir modified: /home/konle/efficient_training/scripts/wandb/run-20200727_204034-2xk4urqe/output.log
+2020-07-27 22:41:04,631 INFO    Thread-4  :39375 [run_manager.py:_on_file_created():680] file/dir created: /home/konle/efficient_training/scripts/wandb/run-20200727_204034-2xk4urqe/wandb-events.jsonl
+2020-07-27 22:41:05,632 INFO    Thread-4  :39375 [run_manager.py:_on_file_modified():691] file/dir modified: /home/konle/efficient_training/scripts/wandb/run-20200727_204034-2xk4urqe/output.log
+2020-07-27 22:41:06,633 INFO    Thread-4  :39375 [run_manager.py:_on_file_modified():691] file/dir modified: /home/konle/efficient_training/scripts/wandb/run-20200727_204034-2xk4urqe/output.log
+2020-07-27 22:41:07,634 INFO    Thread-4  :39375 [run_manager.py:_on_file_modified():691] file/dir modified: /home/konle/efficient_training/scripts/wandb/run-20200727_204034-2xk4urqe/output.log
+2020-07-27 22:41:08,635 INFO    Thread-4  :39375 [run_manager.py:_on_file_modified():691] file/dir modified: /home/konle/efficient_training/scripts/wandb/run-20200727_204034-2xk4urqe/output.log
+2020-07-27 22:41:08,635 INFO    Thread-4  :39375 [run_manager.py:_on_file_modified():691] file/dir modified: /home/konle/efficient_training/scripts/wandb/run-20200727_204034-2xk4urqe/wandb-metadata.json
+2020-07-27 22:41:09,635 INFO    Thread-4  :39375 [run_manager.py:_on_file_modified():691] file/dir modified: /home/konle/efficient_training/scripts/wandb/run-20200727_204034-2xk4urqe/output.log
+2020-07-27 22:41:10,636 INFO    Thread-4  :39375 [run_manager.py:_on_file_modified():691] file/dir modified: /home/konle/efficient_training/scripts/wandb/run-20200727_204034-2xk4urqe/output.log
+2020-07-27 22:41:11,637 INFO    Thread-4  :39375 [run_manager.py:_on_file_modified():691] file/dir modified: /home/konle/efficient_training/scripts/wandb/run-20200727_204034-2xk4urqe/output.log
+2020-07-27 22:41:12,638 INFO    Thread-4  :39375 [run_manager.py:_on_file_modified():691] file/dir modified: /home/konle/efficient_training/scripts/wandb/run-20200727_204034-2xk4urqe/output.log
+2020-07-27 22:41:13,639 INFO    Thread-4  :39375 [run_manager.py:_on_file_modified():691] file/dir modified: /home/konle/efficient_training/scripts/wandb/run-20200727_204034-2xk4urqe/output.log
+2020-07-27 22:41:14,639 INFO    Thread-4  :39375 [run_manager.py:_on_file_modified():691] file/dir modified: /home/konle/efficient_training/scripts/wandb/run-20200727_204034-2xk4urqe/output.log
+2020-07-27 22:41:15,640 INFO    Thread-4  :39375 [run_manager.py:_on_file_modified():691] file/dir modified: /home/konle/efficient_training/scripts/wandb/run-20200727_204034-2xk4urqe/output.log
+2020-07-27 22:41:16,641 INFO    Thread-4  :39375 [run_manager.py:_on_file_modified():691] file/dir modified: /home/konle/efficient_training/scripts/wandb/run-20200727_204034-2xk4urqe/output.log
+2020-07-27 22:41:17,641 INFO    Thread-4  :39375 [run_manager.py:_on_file_modified():691] file/dir modified: /home/konle/efficient_training/scripts/wandb/run-20200727_204034-2xk4urqe/output.log
+2020-07-27 22:41:18,642 INFO    Thread-4  :39375 [run_manager.py:_on_file_modified():691] file/dir modified: /home/konle/efficient_training/scripts/wandb/run-20200727_204034-2xk4urqe/output.log
+2020-07-27 22:41:19,643 INFO    Thread-4  :39375 [run_manager.py:_on_file_modified():691] file/dir modified: /home/konle/efficient_training/scripts/wandb/run-20200727_204034-2xk4urqe/output.log
+2020-07-27 22:41:20,644 INFO    Thread-4  :39375 [run_manager.py:_on_file_modified():691] file/dir modified: /home/konle/efficient_training/scripts/wandb/run-20200727_204034-2xk4urqe/output.log
+2020-07-27 22:41:21,645 INFO    Thread-4  :39375 [run_manager.py:_on_file_modified():691] file/dir modified: /home/konle/efficient_training/scripts/wandb/run-20200727_204034-2xk4urqe/output.log
+ile/dir modified: /home/konle/efficient_training/scripts/wandb/run-20200727_204034-2xk4urqe/output.log
+2020-07-27 22:41:19,643 INFO    Thread-4  :39375 [2xk4urqe:run_manager.py:_on_file_modified():691] file/dir modified: /home/konle/efficient_training/scripts/wandb/run-20200727_204034-2xk4urqe/output.log
+2020-07-27 22:41:20,644 INFO    Thread-4  :39375 [2xk4urqe:run_manager.py:_on_file_modified():691] file/dir modified: /home/konle/efficient_training/scripts/wandb/run-20200727_204034-2xk4urqe/output.log
+2020-07-27 22:41:21,645 INFO    Thread-4  :39375 [2xk4urqe:run_manager.py:_on_file_modified():691] file/dir modified: /home/konle/efficient_training/scripts/wandb/run-20200727_204034-2xk4urqe/output.log

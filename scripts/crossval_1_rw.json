@@ -1,0 +1,16 @@
+{   "model_name_or_path": "/home/konle/distill/distil-base-german-cased_/distill_d",
+    "n_folds" : "5",
+    "data_src_dir" : "../data/redewiedergabe/redewiedergabe-conll",
+    "data_dir" : "../data/redewiedergabe/data",
+    "result_file" : "../models/distill_d_rw/test_results.txt",
+    "all_results_file" : "./results_distil_d.txt",
+    "labels": "../data/redewiedergabe/labels.txt",
+    "output_dir": "../models/distill_d_rw",
+    "max_seq_length": 128,
+    "num_train_epochs": 5,
+    "per_device_train_batch_size": 32,
+    "seed": 1,
+    "do_train": true,
+    "do_eval": true,
+    "do_predict": true
+}

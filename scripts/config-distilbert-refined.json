@@ -1,8 +1,8 @@
 {
     "data_dir": "../data/droc/data",
     "labels": "../data/droc/labels.txt",
-    "model_name_or_path": "../models/droc-model-distilbert-refined-pretrained",
-    "output_dir": "../models/droc-model-distilbert-refined-finetuned",
+    "model_name_or_path": "../distill/distilbert-base-german-cased_/distill_d",
+    "output_dir": "../models/distil_d",
     "max_seq_length": 128,
     "num_train_epochs": 50,
     "per_device_train_batch_size": 32,

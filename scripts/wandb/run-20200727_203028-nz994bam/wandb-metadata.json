@@ -1,0 +1,27 @@
+{
+    "root": "/home/konle/efficient_training",
+    "program": "run_ner.py",
+    "git": {
+        "remote": "https://github.com/fotisj/efficient_training.git",
+        "commit": "f15bb4cf11767ec2be1aea118879a4f5399f4476"
+    },
+    "email": null,
+    "startedAt": "2020-07-27T20:30:28.566981",
+    "host": "wcph113",
+    "username": "konle",
+    "executable": "/home/konle/anaconda3/envs/deep/bin/python",
+    "os": "Linux-4.19.0-9-amd64-x86_64-with-debian-10.4",
+    "python": "3.6.9",
+    "gpu": "GeForce RTX 2080 Ti",
+    "gpu_count": 4,
+    "cpu_count": 40,
+    "args": [
+        "crossval.json"
+    ],
+    "state": "finished",
+    "jobType": null,
+    "mode": "run",
+    "project": "huggingface",
+    "heartbeatAt": "2020-07-27T20:32:25.484613",
+    "exitcode": 0
+}

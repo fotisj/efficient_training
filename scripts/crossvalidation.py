@@ -48,6 +48,8 @@ def datapoints2folds(n_folds, datapoints):
 def clear_dir(directory):
     """remove directory
     #TODO do some checking
+    
+
 
     Args:
         directory ([type]): [description]

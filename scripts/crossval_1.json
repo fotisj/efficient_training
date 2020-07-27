@@ -1,0 +1,16 @@
+{   "model_name_or_path": "/home/konle/distill/bert-base-german-cased_/bert_dapt",
+    "n_folds" : "10",
+    "data_src_dir" : "../data/droc/droc-conll",
+    "data_dir" : "../data/droc/data",
+    "result_file" : "/home/konle/efficient_training/models/bert_d_droc/results.txt",
+    "all_results_file" : "./test_results.txt",
+    "labels": "../data/droc/labels.txt",
+    "output_dir": "/home/konle/efficient_training/models/bert_d_droc",
+    "max_seq_length": 128,
+    "num_train_epochs": 5,
+    "per_device_train_batch_size": 32,
+    "seed": 1,
+    "do_train": true,
+    "do_eval": true,
+    "do_predict": true
+}

@@ -1,0 +1,16 @@
+{   "model_name_or_path": "/home/konle/distill/distilbert-base-german-cased_/distill_d",
+    "n_folds" : "2",
+    "data_src_dir" : "../data/droc/droc-conll",
+    "data_dir" : "../data/droc/data",
+    "result_file" : "../models/finetuned/test_results.txt",
+    "all_results_file" : "./results_distil_d.txt",
+    "labels": "../data/droc/labels.txt",
+    "output_dir": "../models/finetuned",
+    "max_seq_length": 128,
+    "num_train_epochs": 1,
+    "per_device_train_batch_size": 32,
+    "seed": 1,
+    "do_train": true,
+    "do_eval": true,
+    "do_predict": true
+}
