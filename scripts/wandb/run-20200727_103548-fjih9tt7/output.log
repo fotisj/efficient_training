@@ -1,32 +1,0 @@
-07/27/2020 12:35:50 - INFO - transformers.trainer -   ***** Running training *****
-07/27/2020 12:35:50 - INFO - transformers.trainer -     Num examples = 4018
-07/27/2020 12:35:50 - INFO - transformers.trainer -     Num Epochs = 5
-07/27/2020 12:35:50 - INFO - transformers.trainer -     Instantaneous batch size per device = 32
-07/27/2020 12:35:50 - INFO - transformers.trainer -     Total train batch size (w. parallel, distributed & accumulation) = 32
-07/27/2020 12:35:50 - INFO - transformers.trainer -     Gradient Accumulation steps = 1
-07/27/2020 12:35:50 - INFO - transformers.trainer -     Total optimization steps = 630
-07/27/2020 12:35:50 - INFO - transformers.trainer -     Starting fine-tuning.
-Epoch:   0%|                                                                                         | 0/5 [00:00<?, ?it/s]
-Iteration:   0%|                                                                                   | 0/126 [00:00<?, ?it/s][A
-Iteration:   1%|▌                                                                          | 1/126 [00:00<01:09,  1.79it/s][A
-Iteration:   2%|█▏                                                                         | 2/126 [00:00<00:59,  2.10it/s][A
-Iteration:   2%|█▊                                                                         | 3/126 [00:01<00:51,  2.38it/s][A
-Iteration:   3%|██▍                                                                        | 4/126 [00:01<00:46,  2.62it/s][A
-Iteration:   4%|██▉                                                                        | 5/126 [00:01<00:42,  2.85it/s][A
-Iteration:   5%|███▌                                                                       | 6/126 [00:01<00:39,  3.02it/s][A
-Iteration:   6%|████▏                                                                      | 7/126 [00:02<00:37,  3.14it/s][A
-Iteration:   6%|████▊                                                                      | 8/126 [00:02<00:36,  3.23it/s][A
-Iteration:   7%|█████▎                                                                     | 9/126 [00:02<00:35,  3.30it/s][A
-Iteration:   8%|█████▊                                                                    | 10/126 [00:03<00:34,  3.35it/s][A
-Iteration:   9%|██████▍                                                                   | 11/126 [00:03<00:33,  3.39it/s][A
-Iteration:  10%|███████                                                                   | 12/126 [00:03<00:33,  3.43it/s][A
-Iteration:  10%|███████▋                                                                  | 13/126 [00:04<00:32,  3.44it/s][A
-Iteration:  11%|████████▏                                                                 | 14/126 [00:04<00:32,  3.46it/s][A
-Iteration:  12%|████████▊                                                                 | 15/126 [00:04<00:32,  3.46it/s][A
-Iteration:  13%|█████████▍                                                                | 16/126 [00:04<00:31,  3.46it/s][A
-Iteration:  13%|█████████▉                                                                | 17/126 [00:05<00:31,  3.47it/s][A
-Iteration:  14%|██████████▌                                                               | 18/126 [00:05<00:31,  3.47it/s][A
-Iteration:  15%|███████████▏                                                              | 19/126 [00:05<00:30,  3.48it/s][A
-Iteration:  16%|███████████▋                                                              | 20/126 [00:06<00:30,  3.50it/s][A
-Iteration:  17%|████████████▎                                                             | 21/126 [00:06<00:29,  3.51it/s][A
-Iteration:  17%|████████████▉                                                             | 22/126 [00:06<00:29,  3.50it/s][A

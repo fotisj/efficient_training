@@ -1,40 +1,0 @@
-07/27/2020 11:50:49 - INFO - transformers.trainer -   ***** Running training *****
-07/27/2020 11:50:49 - INFO - transformers.trainer -     Num examples = 4018
-07/27/2020 11:50:49 - INFO - transformers.trainer -     Num Epochs = 5
-07/27/2020 11:50:49 - INFO - transformers.trainer -     Instantaneous batch size per device = 32
-07/27/2020 11:50:49 - INFO - transformers.trainer -     Total train batch size (w. parallel, distributed & accumulation) = 32
-07/27/2020 11:50:49 - INFO - transformers.trainer -     Gradient Accumulation steps = 1
-07/27/2020 11:50:49 - INFO - transformers.trainer -     Total optimization steps = 630
-07/27/2020 11:50:49 - INFO - transformers.trainer -     Starting fine-tuning.
-Epoch:   0%|                                                                                         | 0/5 [00:00<?, ?it/s]
-Iteration:   0%|                                                                                   | 0/126 [00:00<?, ?it/s][AIteration:   0%|                                                                                   | 0/126 [00:00<?, ?it/s]
-Epoch:   0%|                                                                                         | 0/5 [00:00<?, ?it/s]
-Traceback (most recent call last):
-  File "run_ner.py", line 304, in <module>
-    main()
-  File "run_ner.py", line 229, in main
-    model_path=model_args.model_name_or_path if os.path.isdir(model_args.model_name_or_path) else None
-  File "/home/konle/anaconda3/envs/deep/lib/python3.6/site-packages/transformers/trainer.py", line 499, in train
-    tr_loss += self._training_step(model, inputs, optimizer)
-  File "/home/konle/anaconda3/envs/deep/lib/python3.6/site-packages/transformers/trainer.py", line 622, in _training_step
-    outputs = model(**inputs)
-  File "/home/konle/anaconda3/envs/deep/lib/python3.6/site-packages/torch/nn/modules/module.py", line 532, in __call__
-    result = self.forward(*input, **kwargs)
-  File "/home/konle/anaconda3/envs/deep/lib/python3.6/site-packages/transformers/modeling_bert.py", line 1446, in forward
-    output_hidden_states=output_hidden_states,
-  File "/home/konle/anaconda3/envs/deep/lib/python3.6/site-packages/torch/nn/modules/module.py", line 532, in __call__
-    result = self.forward(*input, **kwargs)
-  File "/home/konle/anaconda3/envs/deep/lib/python3.6/site-packages/transformers/modeling_bert.py", line 762, in forward
-    output_hidden_states=output_hidden_states,
-  File "/home/konle/anaconda3/envs/deep/lib/python3.6/site-packages/torch/nn/modules/module.py", line 532, in __call__
-    result = self.forward(*input, **kwargs)
-  File "/home/konle/anaconda3/envs/deep/lib/python3.6/site-packages/transformers/modeling_bert.py", line 439, in forward
-    output_attentions,
-  File "/home/konle/anaconda3/envs/deep/lib/python3.6/site-packages/torch/nn/modules/module.py", line 532, in __call__
-    result = self.forward(*input, **kwargs)
-  File "/home/konle/anaconda3/envs/deep/lib/python3.6/site-packages/transformers/modeling_bert.py", line 371, in forward
-    hidden_states, attention_mask, head_mask, output_attentions=output_attentions,
-  File "/home/konle/anaconda3/envs/deep/lib/python3.6/site-packages/torch/nn/modules/module.py", line 532, in __call__
-    result = self.forward(*input, **kwargs)
-  File "/home/konle/anaconda3/envs/deep/lib/python3.6/site-packages/transformers/modeling_bert.py", line 315, in forward
-    hidden_states, attention_mask, head_mask, encoder_hidden_states, encoder_attention_mask, output_a
